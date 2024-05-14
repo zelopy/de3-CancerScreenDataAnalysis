@@ -32,7 +32,7 @@ def s3_connection():
         return s3
 
 
-if __name__ == '__main__':
+def upload_datafile_to_s3(s3_client):
     try:
         key_file = 'aws_info.json'
         with open(key_file) as f:
@@ -40,21 +40,20 @@ if __name__ == '__main__':
     except FileNotFoundError:
         print('aws_info.json 파일이 존재하지 않습니다.')
     
-    # de3ch 계정 액세스키
-    access_key = config.get('ACCESS_KEY_ID', '')
-    # de3ch 계정 비밀키
-    secret_key = config.get('SECRET_ACCESS_KEY', '')
     # S3 버킷명
     s3_bucket_name = config.get('S3_BUCKET_NAME', '')
 
-    # print("access_key: ", access_key)
-    # print("secret_key: ", secret_key)
-    # print("s3_bucket: ", s3_bucket_name)
-
-    s3 = s3_connection()
-
     try:
         # TODO : 업로드 테스트 : 정상
-        s3.upload_file("test.txt", s3_bucket_name, "test.txt")
+        # s3_client.upload_file("test.txt", s3_bucket_name, "test.txt")
+        local_path = "data/"
+        for file_name in os.listdir(local_path):
+            print("Uploading: ", file_name)
+            s3_client.upload_file(local_path + file_name, s3_bucket_name, file_name)
     except Exception as e:
         print(e)
+
+
+if __name__ == '__main__':
+    s3_client = s3_connection()
+    upload_datafile_to_s3(s3_client)
