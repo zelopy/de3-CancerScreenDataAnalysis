@@ -1,0 +1,201 @@
+{
+    "resultCode": "00",
+    "resultMsg": "SUCCESS",
+    "items": [
+        {
+            "cancerCnt": "4.0",
+            "avgCnt": "5",
+            "num": 1,
+            "colNm": "알부민",
+            "normalCnt": "5.0",
+            "colId": "ALBU_VL"
+        },
+        {
+            "cancerCnt": "72.0",
+            "avgCnt": "71",
+            "num": 2,
+            "colNm": "Alkaline phosphatase",
+            "normalCnt": "70.0",
+            "colId": "ALP_VL"
+        },
+        {
+            "cancerCnt": "24.0",
+            "avgCnt": "24",
+            "num": 3,
+            "colNm": "Alanine transaminase",
+            "normalCnt": "24.0",
+            "colId": "ALT_VL"
+        },
+        {
+            "cancerCnt": "99.0",
+            "avgCnt": "96",
+            "num": 4,
+            "colNm": "급성췌장염, 췌장암검사",
+            "normalCnt": "92.0",
+            "colId": "AMYL_VL"
+        },
+        {
+            "cancerCnt": "26.0",
+            "avgCnt": "26",
+            "num": 5,
+            "colNm": "Aspatidic transaminase",
+            "normalCnt": "25.0",
+            "colId": "AST_VL"
+        },
+        {
+            "cancerCnt": "14.0",
+            "avgCnt": "14",
+            "num": 6,
+            "colNm": "요소질소(Blood Urea Nitrogen)",
+            "normalCnt": "14.0",
+            "colId": "BUN_VL"
+        },
+        {
+            "cancerCnt": "9.0",
+            "avgCnt": "9",
+            "num": 7,
+            "colNm": "칼슘(Ca)",
+            "normalCnt": "9.0",
+            "colId": "CALC_VL"
+        },
+        {
+            "cancerCnt": "104.0",
+            "avgCnt": "104",
+            "num": 8,
+            "colNm": "염소(Cl)",
+            "normalCnt": "105.0",
+            "colId": "CL_VL"
+        },
+        {
+            "cancerCnt": "1.0",
+            "avgCnt": "1",
+            "num": 9,
+            "colNm": "크레아티닌 검사",
+            "normalCnt": "1.0",
+            "colId": "CREA_VL"
+        },
+        {
+            "cancerCnt": "0.0",
+            "avgCnt": "0",
+            "num": 10,
+            "colNm": "CRP",
+            "normalCnt": "0.0",
+            "colId": "CRP_VL"
+        },
+        {
+            "cancerCnt": "0.0",
+            "avgCnt": "0",
+            "num": 11,
+            "colNm": "직접빌리루빈(황달진단)",
+            "normalCnt": "0.0",
+            "colId": "D_BILI_VL"
+        },
+        {
+            "cancerCnt": "35.0",
+            "avgCnt": "35",
+            "num": 12,
+            "colNm": "Gamma Glutamyl transferaminase",
+            "normalCnt": "35.0",
+            "colId": "GGT_VL"
+        },
+        {
+            "cancerCnt": "3.0",
+            "avgCnt": "3",
+            "num": 13,
+            "colNm": "글로블린",
+            "normalCnt": "3.0",
+            "colId": "GLOB_VL"
+        },
+        {
+            "cancerCnt": "95.0",
+            "avgCnt": "94",
+            "num": 14,
+            "colNm": "공복 혈당",
+            "normalCnt": "93.0",
+            "colId": "GLUC_VL"
+        },
+        {
+            "cancerCnt": "6.0",
+            "avgCnt": "6",
+            "num": 15,
+            "colNm": "당화혈색소",
+            "normalCnt": "6.0",
+            "colId": "HBA1C_VL"
+        },
+        {
+            "cancerCnt": "58.0",
+            "avgCnt": "58",
+            "num": 16,
+            "colNm": "고밀도콜레스테롤(High Density Lipid)",
+            "normalCnt": "57.0",
+            "colId": "HDL_VL"
+        },
+        {
+            "cancerCnt": "4.0",
+            "avgCnt": "4",
+            "num": 17,
+            "colNm": "칼륨(K)",
+            "normalCnt": "4.0",
+            "colId": "KALI_VL"
+        },
+        {
+            "cancerCnt": "118.0",
+            "avgCnt": "120",
+            "num": 18,
+            "colNm": "저밀도콜레스테롤(Low Density Lipid)",
+            "normalCnt": "122.0",
+            "colId": "LDL_VL"
+        },
+        {
+            "cancerCnt": "142.0",
+            "avgCnt": "143",
+            "num": 19,
+            "colNm": "나트륨(Na)",
+            "normalCnt": "143.0",
+            "colId": "NATR_VL"
+        },
+        {
+            "cancerCnt": "4.0",
+            "avgCnt": "4",
+            "num": 20,
+            "colNm": "인(P)",
+            "normalCnt": "4.0",
+            "colId": "PHOS_VL"
+        },
+        {
+            "cancerCnt": "116.0",
+            "avgCnt": "118",
+            "num": 21,
+            "colNm": "중성지방",
+            "normalCnt": "121.0",
+            "colId": "TG_VL"
+        },
+        {
+            "cancerCnt": "1.0",
+            "avgCnt": "1",
+            "num": 22,
+            "colNm": "총 빌리루빈",
+            "normalCnt": "1.0",
+            "colId": "T_BILI_VL"
+        },
+        {
+            "cancerCnt": "196.0",
+            "avgCnt": "198",
+            "num": 23,
+            "colNm": "총 콜레스테롤",
+            "normalCnt": "200.0",
+            "colId": "T_CHOL_VL"
+        },
+        {
+            "cancerCnt": "7.0",
+            "avgCnt": "7",
+            "num": 24,
+            "colNm": "총 단백질량",
+            "normalCnt": "7.0",
+            "colId": "T_PROT_VL"
+        }
+    ],
+    "totalCount": 24,
+    "pageNo": 1,
+    "numOfRows": 500
+}

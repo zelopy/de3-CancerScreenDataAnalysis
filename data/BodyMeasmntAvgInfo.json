@@ -1,0 +1,97 @@
+{
+    "resultCode": "00",
+    "resultMsg": "SUCCESS",
+    "items": [
+        {
+            "cancerCnt": "24.0",
+            "avgCnt": "24",
+            "num": 1,
+            "colNm": "체질량지수",
+            "normalCnt": "24.0",
+            "colId": "BMI_VL"
+        },
+        {
+            "cancerCnt": "26.0",
+            "avgCnt": "26",
+            "num": 2,
+            "colNm": "체지방률 (%)",
+            "normalCnt": "26.0",
+            "colId": "BODY_VL"
+        },
+        {
+            "cancerCnt": "76.0",
+            "avgCnt": "76",
+            "num": 3,
+            "colNm": "혈압(이완기)",
+            "normalCnt": "76.0",
+            "colId": "DBP_VL"
+        },
+        {
+            "cancerCnt": "163.0",
+            "avgCnt": "163",
+            "num": 4,
+            "colNm": "신장",
+            "normalCnt": "164.0",
+            "colId": "HT_VL"
+        },
+        {
+            "cancerCnt": "64.0",
+            "avgCnt": "64",
+            "num": 5,
+            "colNm": "맥박 (회/분)",
+            "normalCnt": "64.0",
+            "colId": "PULS_TNOT"
+        },
+        {
+            "cancerCnt": "125.0",
+            "avgCnt": "124",
+            "num": 6,
+            "colNm": "혈압(수축기)",
+            "normalCnt": "124.0",
+            "colId": "SBP_VL"
+        },
+        {
+            "cancerCnt": "15.0",
+            "avgCnt": "15",
+            "num": 7,
+            "colNm": "피하지방량",
+            "normalCnt": "15.0",
+            "colId": "SF_KG_VL"
+        },
+        {
+            "cancerCnt": "100.0",
+            "avgCnt": "100",
+            "num": 8,
+            "colNm": "내장지방면적",
+            "normalCnt": "100.0",
+            "colId": "VFA_VL"
+        },
+        {
+            "cancerCnt": "2.0",
+            "avgCnt": "2",
+            "num": 9,
+            "colNm": "내장지방량",
+            "normalCnt": "2.0",
+            "colId": "VF_KG_VL"
+        },
+        {
+            "cancerCnt": "79.0",
+            "avgCnt": "79",
+            "num": 10,
+            "colNm": "복부둘레 (cm)",
+            "normalCnt": "79.0",
+            "colId": "WAIS_VL"
+        },
+        {
+            "cancerCnt": "24.0",
+            "avgCnt": "24",
+            "num": 11,
+            "colNm": "복부비만율",
+            "normalCnt": "24.0",
+            "colId": "WHR_VL"
+        }
+    ],
+    "totalCount": 11,
+    "pageNo": 1,
+    "numOfRows": 500
+}

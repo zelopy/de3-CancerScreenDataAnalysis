@@ -1,0 +1,153 @@
+{
+    "resultCode": "00",
+    "resultMsg": "SUCCESS",
+    "items": [
+        {
+            "cancerCnt": "0.0",
+            "avgCnt": "0",
+            "num": 1,
+            "colNm": "혈액형(ABO)",
+            "normalCnt": "0.0",
+            "colId": "ABO_CMNT"
+        },
+        {
+            "cancerCnt": "13.0",
+            "avgCnt": "8",
+            "num": 2,
+            "colNm": "비정형 림프구",
+            "normalCnt": "2.0",
+            "colId": "ATY_LYMP_VL"
+        },
+        {
+            "cancerCnt": "2.0",
+            "avgCnt": "2",
+            "num": 3,
+            "colNm": "간상 호중구",
+            "normalCnt": "1.0",
+            "colId": "BAND_NEUT_VL"
+        },
+        {
+            "cancerCnt": "1.0",
+            "avgCnt": "1",
+            "num": 4,
+            "colNm": "호염기구",
+            "normalCnt": "1.0",
+            "colId": "BASO_VL"
+        },
+        {
+            "cancerCnt": "3.0",
+            "avgCnt": "3",
+            "num": 5,
+            "colNm": "호산구",
+            "normalCnt": "3.0",
+            "colId": "EOSI_VL"
+        },
+        {
+            "cancerCnt": "14.0",
+            "avgCnt": "14",
+            "num": 6,
+            "colNm": "혈색소",
+            "normalCnt": "14.0",
+            "colId": "HB_VL"
+        },
+        {
+            "cancerCnt": "43.0",
+            "avgCnt": "43",
+            "num": 7,
+            "colNm": "적혈구용적(hematocrit)",
+            "normalCnt": "44.0",
+            "colId": "HCT_VL"
+        },
+        {
+            "cancerCnt": "36.0",
+            "avgCnt": "36",
+            "num": 8,
+            "colNm": "림프구",
+            "normalCnt": "36.0",
+            "colId": "LYMP_VL"
+        },
+        {
+            "cancerCnt": "33.0",
+            "avgCnt": "33",
+            "num": 9,
+            "colNm": "평균적혈구혈색소농도(mean cell hemoglobin concentarion)",
+            "normalCnt": "34.0",
+            "colId": "MCHC_VL"
+        },
+        {
+            "cancerCnt": "31.0",
+            "avgCnt": "31",
+            "num": 10,
+            "colNm": "평균적혈구혈색소량(mean cell hemoglobin)",
+            "normalCnt": "31.0",
+            "colId": "MCH_VL"
+        },
+        {
+            "cancerCnt": "92.0",
+            "avgCnt": "92",
+            "num": 11,
+            "colNm": "평균적혈구용적(mean cell volume)",
+            "normalCnt": "92.0",
+            "colId": "MCV_VL"
+        },
+        {
+            "cancerCnt": "7.0",
+            "avgCnt": "7",
+            "num": 12,
+            "colNm": "단구",
+            "normalCnt": "7.0",
+            "colId": "MONO_VL"
+        },
+        {
+            "cancerCnt": "12.0",
+            "avgCnt": "12",
+            "num": 13,
+            "colNm": "혈소판분포폭",
+            "normalCnt": "12.0",
+            "colId": "PDW_VL"
+        },
+        {
+            "cancerCnt": "236.0",
+            "avgCnt": "238",
+            "num": 14,
+            "colNm": "혈소판 수",
+            "normalCnt": "241.0",
+            "colId": "PLT_VL"
+        },
+        {
+            "cancerCnt": "5.0",
+            "avgCnt": "5",
+            "num": 15,
+            "colNm": "적혈구 수/L",
+            "normalCnt": "5.0",
+            "colId": "RBC_VL"
+        },
+        {
+            "cancerCnt": "13.0",
+            "avgCnt": "13",
+            "num": 16,
+            "colNm": "혈소판변이계수(Red cell distribution width)",
+            "normalCnt": "13.0",
+            "colId": "RDW_VL"
+        },
+        {
+            "cancerCnt": "0.0",
+            "avgCnt": "0",
+            "num": 17,
+            "colNm": "혈액형(RH)",
+            "normalCnt": "0.0",
+            "colId": "RH_CMNT"
+        },
+        {
+            "cancerCnt": "54.0",
+            "avgCnt": "54",
+            "num": 18,
+            "colNm": "분엽 호중구",
+            "normalCnt": "54.0",
+            "colId": "SEG_NEUT_VL"
+        }
+    ],
+    "totalCount": 18,
+    "pageNo": 1,
+    "numOfRows": 500
+}

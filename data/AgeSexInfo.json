@@ -1,0 +1,89 @@
+{
+    "resultCode": "00",
+    "resultMsg": "SUCCESS",
+    "items": [
+        {
+            "maleCnt": "11.0",
+            "totalCnt": "35",
+            "femaleCnt": "24.0",
+            "num": 1,
+            "colNm": "30-34",
+            "colId": "30-34"
+        },
+        {
+            "maleCnt": "36.0",
+            "totalCnt": "83",
+            "femaleCnt": "47.0",
+            "num": 2,
+            "colNm": "35-39",
+            "colId": "35-39"
+        },
+        {
+            "maleCnt": "73.0",
+            "totalCnt": "243",
+            "femaleCnt": "170.0",
+            "num": 3,
+            "colNm": "40-44",
+            "colId": "40-44"
+        },
+        {
+            "maleCnt": "168.0",
+            "totalCnt": "467",
+            "femaleCnt": "299.0",
+            "num": 4,
+            "colNm": "45-49",
+            "colId": "45-49"
+        },
+        {
+            "maleCnt": "247.0",
+            "totalCnt": "715",
+            "femaleCnt": "468.0",
+            "num": 5,
+            "colNm": "50-54",
+            "colId": "50-54"
+        },
+        {
+            "maleCnt": "338.0",
+            "totalCnt": "773",
+            "femaleCnt": "435.0",
+            "num": 6,
+            "colNm": "55-59",
+            "colId": "55-59"
+        },
+        {
+            "maleCnt": "374.0",
+            "totalCnt": "780",
+            "femaleCnt": "406.0",
+            "num": 7,
+            "colNm": "60-64",
+            "colId": "60-64"
+        },
+        {
+            "maleCnt": "294.0",
+            "totalCnt": "516",
+            "femaleCnt": "222.0",
+            "num": 8,
+            "colNm": "65-69",
+            "colId": "65-69"
+        },
+        {
+            "maleCnt": "235.0",
+            "totalCnt": "377",
+            "femaleCnt": "142.0",
+            "num": 9,
+            "colNm": "70-74",
+            "colId": "70-74"
+        },
+        {
+            "maleCnt": "92.0",
+            "totalCnt": "132",
+            "femaleCnt": "40.0",
+            "num": 10,
+            "colNm": "75-79",
+            "colId": "75-79"
+        }
+    ],
+    "totalCount": 10,
+    "pageNo": 1,
+    "numOfRows": 500
+}
