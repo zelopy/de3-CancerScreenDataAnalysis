@@ -30,6 +30,32 @@ def s3_connection():
     else:
         print("S3 버킷 연결 성공") 
         return s3
+    
+def redshift_connection():
+    BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    key_file = os.path.join(BASE_DIR, 'de3-CancerScreenDataAnalysis', 'aws_info.json')
+    print(os.path.realpath(key_file))
+    try:
+        with open(key_file) as f:
+            config = json.load(f)
+        access_key = config.get('ACCESS_KEY_ID', '')
+        secret_key = config.get('SECRET_ACCESS_KEY', '')
+    except FileNotFoundError:
+        print('aws_info.json 파일이 존재하지 않습니다.')
+    
+    try:
+        # s3 클라이언트 생성
+        redshift = boto3.client(
+            service_name="redshift",
+            region_name="ap-northeast-2",
+            aws_access_key_id=access_key,
+            aws_secret_access_key=secret_key,
+        )
+    except Exception as e:
+        print(e)
+    else:
+        print("redshift 연결 성공") 
+        return redshift
 
 
 def upload_datafile_to_s3(s3_client):
@@ -53,7 +79,22 @@ def upload_datafile_to_s3(s3_client):
     except Exception as e:
         print(e)
 
+def copy_s3_to_redshift(redshift_client):
+    query = """
+        COPY table
+        FROM ''
+        ACCESS_KEY_ID ''
+        SECRET_ACCESS_KEY ''
+        JSON 'auto'
+    """
+    response = redshift_client.execute_statement(
+        ClusterIdentifier = '',
+        Database='',
+        Sql=query
+    )
+    print(response)
 
 if __name__ == '__main__':
     s3_client = s3_connection()
+    redshift_client = redshift_connection()
     upload_datafile_to_s3(s3_client)
