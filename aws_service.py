@@ -80,16 +80,26 @@ def upload_datafile_to_s3(s3_client):
         print(e)
 
 def copy_s3_to_redshift(redshift_client):
+    try:
+        key_file = 'aws_info.json'
+        with open(key_file) as f:
+            config = json.load(f)
+        access_key = config.get('ACCESS_KEY_ID', '')
+        secret_key = config.get('SECRET_ACCESS_KEY', '')
+    except FileNotFoundError:
+        print('aws_info.json 파일이 존재하지 않습니다.')
+
     query = """
-        COPY table
-        FROM ''
-        ACCESS_KEY_ID ''
-        SECRET_ACCESS_KEY ''
+        COPY table_name
+        FROM 's3파일위치'
+        ACCESS_KEY_ID '{}'
+        SECRET_ACCESS_KEY '{}'
         JSON 'auto'
-    """
+    """.format(access_key, secret_key)
+
     response = redshift_client.execute_statement(
         ClusterIdentifier = '',
-        Database='',
+        Database='dev',
         Sql=query
     )
     print(response)
