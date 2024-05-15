@@ -3,7 +3,7 @@ import json, os
 
 '''
 S3 연결
-    Returns : S3객체
+    returns : S3객체
 '''
 def s3_connection():
     BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -21,7 +21,7 @@ def s3_connection():
         # s3 클라이언트 생성
         s3 = boto3.client(
             service_name="s3",
-            region_name="ap-northeast-2",
+            region_name="us-west-2",    # 오레곤
             aws_access_key_id=access_key,
             aws_secret_access_key=secret_key,
         )
@@ -32,6 +32,10 @@ def s3_connection():
         return s3
 
 
+'''
+S3 버킷에 data 폴더 내 모든 파일 업로드
+    parameters : S3객체
+'''
 def upload_datafile_to_s3(s3_client):
     try:
         key_file = 'aws_info.json'
