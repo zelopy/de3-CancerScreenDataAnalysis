@@ -2,7 +2,7 @@ import boto3
 import json, os
 import psycopg2
 from sqlalchemy import create_engine, text
-from sqlalchemy.exc import SQLAlchemyError
+from json.decoder import JSONDecodeError
 
 '''
 S3 연결
@@ -107,6 +107,16 @@ def get_db_engine():
 
     except FileNotFoundError:
         print('aws_info.json 파일이 존재하지 않습니다.')
+        return None
+    except JSONDecodeError:
+        print('JSON 파일을 파싱하는 중 오류가 발생했습니다.')
+        return None
+    except ValueError as e:
+        print(f'오류: {e}')
+        return None
+    except psycopg2.Error as e:
+        print(f'데이터베이스 연결 오류: {e}')
+        return None
     return engine
 
 
@@ -131,8 +141,11 @@ def create_table_in_redshift(engine):
     """
     # SQL 실행
     with engine.connect() as connection:
-        result = connection.execute(text(create_table_query))
-        print("Table created:", result.rowcount == -1)
+        try:
+            result = connection.execute(text(create_table_query))
+            print("Table created:", result.rowcount == -1)
+        except Exception as e:
+            print(f"테이블 생성 중 오류 발생: {e}")
 
 
 '''
@@ -149,8 +162,11 @@ def copy_s3_to_redshift(engine):
     """
     # SQL 실행
     with engine.connect() as connection:
-        result = connection.execute(text(data_copy_query))
-        print("Data copy : ", result.rowcount == -1)
+        try:
+            result = connection.execute(text(data_copy_query))
+            print("Data copy : ", result.rowcount == -1)
+        except Exception as e:
+            print(f"COPY 오류 발생: {e}")
 
 
 # MAIN
