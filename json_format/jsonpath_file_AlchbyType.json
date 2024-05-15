@@ -1,0 +1,14 @@
+{
+    "jsonpaths": [
+        "$.items[*].statsMetaNo",
+        "$.items[*].centerNm",
+        "$.items[*].critYr",
+        "$.items[*].ptAge",
+        "$.items[*].ptSexCd",
+        "$.items[*].statsTrgtNm",
+        "$.items[*].ncsNmvl",
+        "$.items[*].wholNcsDnmvl",
+        "$.items[*].ptCntNmvl",
+        "$.items[*].wholPtCntDnmvl"
+    ]
+}
