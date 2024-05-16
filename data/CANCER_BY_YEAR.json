@@ -1,0 +1,3866 @@
+[
+ {
+  "cnacer_type": "입술, 구강 및 인두(C00-C14)",
+  "incident_year": "1999",
+  "total_cnt": 1739,
+  "m_cnt": 1307,
+  "f_cnt": 432
+ },
+ {
+  "cnacer_type": "입술, 구강 및 인두(C00-C14)",
+  "incident_year": "2000",
+  "total_cnt": 2209,
+  "m_cnt": 1493,
+  "f_cnt": 716
+ },
+ {
+  "cnacer_type": "입술, 구강 및 인두(C00-C14)",
+  "incident_year": "2001",
+  "total_cnt": 1865,
+  "m_cnt": 1387,
+  "f_cnt": 478
+ },
+ {
+  "cnacer_type": "입술, 구강 및 인두(C00-C14)",
+  "incident_year": "2002",
+  "total_cnt": 1994,
+  "m_cnt": 1498,
+  "f_cnt": 496
+ },
+ {
+  "cnacer_type": "입술, 구강 및 인두(C00-C14)",
+  "incident_year": "2003",
+  "total_cnt": 2092,
+  "m_cnt": 1588,
+  "f_cnt": 504
+ },
+ {
+  "cnacer_type": "입술, 구강 및 인두(C00-C14)",
+  "incident_year": "2004",
+  "total_cnt": 2163,
+  "m_cnt": 1578,
+  "f_cnt": 585
+ },
+ {
+  "cnacer_type": "입술, 구강 및 인두(C00-C14)",
+  "incident_year": "2005",
+  "total_cnt": 2253,
+  "m_cnt": 1624,
+  "f_cnt": 629
+ },
+ {
+  "cnacer_type": "입술, 구강 및 인두(C00-C14)",
+  "incident_year": "2006",
+  "total_cnt": 2312,
+  "m_cnt": 1704,
+  "f_cnt": 608
+ },
+ {
+  "cnacer_type": "입술, 구강 및 인두(C00-C14)",
+  "incident_year": "2007",
+  "total_cnt": 2467,
+  "m_cnt": 1818,
+  "f_cnt": 649
+ },
+ {
+  "cnacer_type": "입술, 구강 및 인두(C00-C14)",
+  "incident_year": "2008",
+  "total_cnt": 2640,
+  "m_cnt": 1954,
+  "f_cnt": 686
+ },
+ {
+  "cnacer_type": "입술, 구강 및 인두(C00-C14)",
+  "incident_year": "2009",
+  "total_cnt": 2594,
+  "m_cnt": 1929,
+  "f_cnt": 665
+ },
+ {
+  "cnacer_type": "입술, 구강 및 인두(C00-C14)",
+  "incident_year": "2010",
+  "total_cnt": 2832,
+  "m_cnt": 2009,
+  "f_cnt": 823
+ },
+ {
+  "cnacer_type": "입술, 구강 및 인두(C00-C14)",
+  "incident_year": "2011",
+  "total_cnt": 2955,
+  "m_cnt": 2157,
+  "f_cnt": 798
+ },
+ {
+  "cnacer_type": "입술, 구강 및 인두(C00-C14)",
+  "incident_year": "2012",
+  "total_cnt": 3013,
+  "m_cnt": 2206,
+  "f_cnt": 807
+ },
+ {
+  "cnacer_type": "입술, 구강 및 인두(C00-C14)",
+  "incident_year": "2013",
+  "total_cnt": 3127,
+  "m_cnt": 2245,
+  "f_cnt": 882
+ },
+ {
+  "cnacer_type": "입술, 구강 및 인두(C00-C14)",
+  "incident_year": "2014",
+  "total_cnt": 3292,
+  "m_cnt": 2327,
+  "f_cnt": 965
+ },
+ {
+  "cnacer_type": "입술, 구강 및 인두(C00-C14)",
+  "incident_year": "2015",
+  "total_cnt": 3376,
+  "m_cnt": 2437,
+  "f_cnt": 939
+ },
+ {
+  "cnacer_type": "입술, 구강 및 인두(C00-C14)",
+  "incident_year": "2016",
+  "total_cnt": 3628,
+  "m_cnt": 2585,
+  "f_cnt": 1043
+ },
+ {
+  "cnacer_type": "입술, 구강 및 인두(C00-C14)",
+  "incident_year": "2017",
+  "total_cnt": 3756,
+  "m_cnt": 2689,
+  "f_cnt": 1067
+ },
+ {
+  "cnacer_type": "입술, 구강 및 인두(C00-C14)",
+  "incident_year": "2018",
+  "total_cnt": 3866,
+  "m_cnt": 2784,
+  "f_cnt": 1082
+ },
+ {
+  "cnacer_type": "입술, 구강 및 인두(C00-C14)",
+  "incident_year": "2019",
+  "total_cnt": 4025,
+  "m_cnt": 2899,
+  "f_cnt": 1126
+ },
+ {
+  "cnacer_type": "입술, 구강 및 인두(C00-C14)",
+  "incident_year": "2020",
+  "total_cnt": 4105,
+  "m_cnt": 2922,
+  "f_cnt": 1183
+ },
+ {
+  "cnacer_type": "입술, 구강 및 인두(C00-C14)",
+  "incident_year": "2021",
+  "total_cnt": 4371,
+  "m_cnt": 3159,
+  "f_cnt": 1212
+ },
+ {
+  "cnacer_type": "식도(C15)",
+  "incident_year": "1999",
+  "total_cnt": 1861,
+  "m_cnt": 1705,
+  "f_cnt": 156
+ },
+ {
+  "cnacer_type": "식도(C15)",
+  "incident_year": "2000",
+  "total_cnt": 1767,
+  "m_cnt": 1602,
+  "f_cnt": 165
+ },
+ {
+  "cnacer_type": "식도(C15)",
+  "incident_year": "2001",
+  "total_cnt": 1918,
+  "m_cnt": 1741,
+  "f_cnt": 177
+ },
+ {
+  "cnacer_type": "식도(C15)",
+  "incident_year": "2002",
+  "total_cnt": 1954,
+  "m_cnt": 1793,
+  "f_cnt": 161
+ },
+ {
+  "cnacer_type": "식도(C15)",
+  "incident_year": "2003",
+  "total_cnt": 1935,
+  "m_cnt": 1740,
+  "f_cnt": 195
+ },
+ {
+  "cnacer_type": "식도(C15)",
+  "incident_year": "2004",
+  "total_cnt": 1986,
+  "m_cnt": 1823,
+  "f_cnt": 163
+ },
+ {
+  "cnacer_type": "식도(C15)",
+  "incident_year": "2005",
+  "total_cnt": 2049,
+  "m_cnt": 1890,
+  "f_cnt": 159
+ },
+ {
+  "cnacer_type": "식도(C15)",
+  "incident_year": "2006",
+  "total_cnt": 2049,
+  "m_cnt": 1880,
+  "f_cnt": 169
+ },
+ {
+  "cnacer_type": "식도(C15)",
+  "incident_year": "2007",
+  "total_cnt": 2112,
+  "m_cnt": 1907,
+  "f_cnt": 205
+ },
+ {
+  "cnacer_type": "식도(C15)",
+  "incident_year": "2008",
+  "total_cnt": 2205,
+  "m_cnt": 2008,
+  "f_cnt": 197
+ },
+ {
+  "cnacer_type": "식도(C15)",
+  "incident_year": "2009",
+  "total_cnt": 2175,
+  "m_cnt": 2011,
+  "f_cnt": 164
+ },
+ {
+  "cnacer_type": "식도(C15)",
+  "incident_year": "2010",
+  "total_cnt": 2252,
+  "m_cnt": 2064,
+  "f_cnt": 188
+ },
+ {
+  "cnacer_type": "식도(C15)",
+  "incident_year": "2011",
+  "total_cnt": 2290,
+  "m_cnt": 2092,
+  "f_cnt": 198
+ },
+ {
+  "cnacer_type": "식도(C15)",
+  "incident_year": "2012",
+  "total_cnt": 2391,
+  "m_cnt": 2165,
+  "f_cnt": 226
+ },
+ {
+  "cnacer_type": "식도(C15)",
+  "incident_year": "2013",
+  "total_cnt": 2408,
+  "m_cnt": 2207,
+  "f_cnt": 201
+ },
+ {
+  "cnacer_type": "식도(C15)",
+  "incident_year": "2014",
+  "total_cnt": 2390,
+  "m_cnt": 2172,
+  "f_cnt": 218
+ },
+ {
+  "cnacer_type": "식도(C15)",
+  "incident_year": "2015",
+  "total_cnt": 2461,
+  "m_cnt": 2238,
+  "f_cnt": 223
+ },
+ {
+  "cnacer_type": "식도(C15)",
+  "incident_year": "2016",
+  "total_cnt": 2536,
+  "m_cnt": 2280,
+  "f_cnt": 256
+ },
+ {
+  "cnacer_type": "식도(C15)",
+  "incident_year": "2017",
+  "total_cnt": 2531,
+  "m_cnt": 2281,
+  "f_cnt": 250
+ },
+ {
+  "cnacer_type": "식도(C15)",
+  "incident_year": "2018",
+  "total_cnt": 2715,
+  "m_cnt": 2463,
+  "f_cnt": 252
+ },
+ {
+  "cnacer_type": "식도(C15)",
+  "incident_year": "2019",
+  "total_cnt": 2890,
+  "m_cnt": 2590,
+  "f_cnt": 300
+ },
+ {
+  "cnacer_type": "식도(C15)",
+  "incident_year": "2020",
+  "total_cnt": 2760,
+  "m_cnt": 2463,
+  "f_cnt": 297
+ },
+ {
+  "cnacer_type": "식도(C15)",
+  "incident_year": "2021",
+  "total_cnt": 2954,
+  "m_cnt": 2615,
+  "f_cnt": 339
+ },
+ {
+  "cnacer_type": "위(C16)",
+  "incident_year": "1999",
+  "total_cnt": 20901,
+  "m_cnt": 13567,
+  "f_cnt": 7334
+ },
+ {
+  "cnacer_type": "위(C16)",
+  "incident_year": "2000",
+  "total_cnt": 21081,
+  "m_cnt": 13897,
+  "f_cnt": 7184
+ },
+ {
+  "cnacer_type": "위(C16)",
+  "incident_year": "2001",
+  "total_cnt": 22614,
+  "m_cnt": 14920,
+  "f_cnt": 7694
+ },
+ {
+  "cnacer_type": "위(C16)",
+  "incident_year": "2002",
+  "total_cnt": 23308,
+  "m_cnt": 15316,
+  "f_cnt": 7992
+ },
+ {
+  "cnacer_type": "위(C16)",
+  "incident_year": "2003",
+  "total_cnt": 23957,
+  "m_cnt": 15838,
+  "f_cnt": 8119
+ },
+ {
+  "cnacer_type": "위(C16)",
+  "incident_year": "2004",
+  "total_cnt": 23651,
+  "m_cnt": 15630,
+  "f_cnt": 8021
+ },
+ {
+  "cnacer_type": "위(C16)",
+  "incident_year": "2005",
+  "total_cnt": 26376,
+  "m_cnt": 17404,
+  "f_cnt": 8972
+ },
+ {
+  "cnacer_type": "위(C16)",
+  "incident_year": "2006",
+  "total_cnt": 26463,
+  "m_cnt": 17756,
+  "f_cnt": 8707
+ },
+ {
+  "cnacer_type": "위(C16)",
+  "incident_year": "2007",
+  "total_cnt": 26854,
+  "m_cnt": 17907,
+  "f_cnt": 8947
+ },
+ {
+  "cnacer_type": "위(C16)",
+  "incident_year": "2008",
+  "total_cnt": 28427,
+  "m_cnt": 19116,
+  "f_cnt": 9311
+ },
+ {
+  "cnacer_type": "위(C16)",
+  "incident_year": "2009",
+  "total_cnt": 30066,
+  "m_cnt": 20155,
+  "f_cnt": 9911
+ },
+ {
+  "cnacer_type": "위(C16)",
+  "incident_year": "2010",
+  "total_cnt": 30770,
+  "m_cnt": 20599,
+  "f_cnt": 10171
+ },
+ {
+  "cnacer_type": "위(C16)",
+  "incident_year": "2011",
+  "total_cnt": 32041,
+  "m_cnt": 21592,
+  "f_cnt": 10449
+ },
+ {
+  "cnacer_type": "위(C16)",
+  "incident_year": "2012",
+  "total_cnt": 31215,
+  "m_cnt": 21070,
+  "f_cnt": 10145
+ },
+ {
+  "cnacer_type": "위(C16)",
+  "incident_year": "2013",
+  "total_cnt": 30532,
+  "m_cnt": 20499,
+  "f_cnt": 10033
+ },
+ {
+  "cnacer_type": "위(C16)",
+  "incident_year": "2014",
+  "total_cnt": 30221,
+  "m_cnt": 20334,
+  "f_cnt": 9887
+ },
+ {
+  "cnacer_type": "위(C16)",
+  "incident_year": "2015",
+  "total_cnt": 29510,
+  "m_cnt": 19784,
+  "f_cnt": 9726
+ },
+ {
+  "cnacer_type": "위(C16)",
+  "incident_year": "2016",
+  "total_cnt": 30824,
+  "m_cnt": 20720,
+  "f_cnt": 10104
+ },
+ {
+  "cnacer_type": "위(C16)",
+  "incident_year": "2017",
+  "total_cnt": 30171,
+  "m_cnt": 20245,
+  "f_cnt": 9926
+ },
+ {
+  "cnacer_type": "위(C16)",
+  "incident_year": "2018",
+  "total_cnt": 29542,
+  "m_cnt": 20027,
+  "f_cnt": 9515
+ },
+ {
+  "cnacer_type": "위(C16)",
+  "incident_year": "2019",
+  "total_cnt": 29799,
+  "m_cnt": 19938,
+  "f_cnt": 9861
+ },
+ {
+  "cnacer_type": "위(C16)",
+  "incident_year": "2020",
+  "total_cnt": 26845,
+  "m_cnt": 17977,
+  "f_cnt": 8868
+ },
+ {
+  "cnacer_type": "위(C16)",
+  "incident_year": "2021",
+  "total_cnt": 29361,
+  "m_cnt": 19533,
+  "f_cnt": 9828
+ },
+ {
+  "cnacer_type": "대장(C18-C20)",
+  "incident_year": "1999",
+  "total_cnt": 9780,
+  "m_cnt": 5338,
+  "f_cnt": 4442
+ },
+ {
+  "cnacer_type": "대장(C18-C20)",
+  "incident_year": "2000",
+  "total_cnt": 10497,
+  "m_cnt": 5861,
+  "f_cnt": 4636
+ },
+ {
+  "cnacer_type": "대장(C18-C20)",
+  "incident_year": "2001",
+  "total_cnt": 11777,
+  "m_cnt": 6575,
+  "f_cnt": 5202
+ },
+ {
+  "cnacer_type": "대장(C18-C20)",
+  "incident_year": "2002",
+  "total_cnt": 13242,
+  "m_cnt": 7564,
+  "f_cnt": 5678
+ },
+ {
+  "cnacer_type": "대장(C18-C20)",
+  "incident_year": "2003",
+  "total_cnt": 14738,
+  "m_cnt": 8408,
+  "f_cnt": 6330
+ },
+ {
+  "cnacer_type": "대장(C18-C20)",
+  "incident_year": "2004",
+  "total_cnt": 16337,
+  "m_cnt": 9458,
+  "f_cnt": 6879
+ },
+ {
+  "cnacer_type": "대장(C18-C20)",
+  "incident_year": "2005",
+  "total_cnt": 18355,
+  "m_cnt": 10688,
+  "f_cnt": 7667
+ },
+ {
+  "cnacer_type": "대장(C18-C20)",
+  "incident_year": "2006",
+  "total_cnt": 19941,
+  "m_cnt": 11695,
+  "f_cnt": 8246
+ },
+ {
+  "cnacer_type": "대장(C18-C20)",
+  "incident_year": "2007",
+  "total_cnt": 21568,
+  "m_cnt": 12790,
+  "f_cnt": 8778
+ },
+ {
+  "cnacer_type": "대장(C18-C20)",
+  "incident_year": "2008",
+  "total_cnt": 23275,
+  "m_cnt": 13946,
+  "f_cnt": 9329
+ },
+ {
+  "cnacer_type": "대장(C18-C20)",
+  "incident_year": "2009",
+  "total_cnt": 25577,
+  "m_cnt": 15422,
+  "f_cnt": 10155
+ },
+ {
+  "cnacer_type": "대장(C18-C20)",
+  "incident_year": "2010",
+  "total_cnt": 26767,
+  "m_cnt": 16224,
+  "f_cnt": 10543
+ },
+ {
+  "cnacer_type": "대장(C18-C20)",
+  "incident_year": "2011",
+  "total_cnt": 28758,
+  "m_cnt": 17558,
+  "f_cnt": 11200
+ },
+ {
+  "cnacer_type": "대장(C18-C20)",
+  "incident_year": "2012",
+  "total_cnt": 29617,
+  "m_cnt": 17822,
+  "f_cnt": 11795
+ },
+ {
+  "cnacer_type": "대장(C18-C20)",
+  "incident_year": "2013",
+  "total_cnt": 28197,
+  "m_cnt": 16947,
+  "f_cnt": 11250
+ },
+ {
+  "cnacer_type": "대장(C18-C20)",
+  "incident_year": "2014",
+  "total_cnt": 27533,
+  "m_cnt": 16521,
+  "f_cnt": 11012
+ },
+ {
+  "cnacer_type": "대장(C18-C20)",
+  "incident_year": "2015",
+  "total_cnt": 27299,
+  "m_cnt": 16206,
+  "f_cnt": 11093
+ },
+ {
+  "cnacer_type": "대장(C18-C20)",
+  "incident_year": "2016",
+  "total_cnt": 28659,
+  "m_cnt": 17001,
+  "f_cnt": 11658
+ },
+ {
+  "cnacer_type": "대장(C18-C20)",
+  "incident_year": "2017",
+  "total_cnt": 28769,
+  "m_cnt": 17032,
+  "f_cnt": 11737
+ },
+ {
+  "cnacer_type": "대장(C18-C20)",
+  "incident_year": "2018",
+  "total_cnt": 28412,
+  "m_cnt": 16972,
+  "f_cnt": 11440
+ },
+ {
+  "cnacer_type": "대장(C18-C20)",
+  "incident_year": "2019",
+  "total_cnt": 29598,
+  "m_cnt": 17444,
+  "f_cnt": 12154
+ },
+ {
+  "cnacer_type": "대장(C18-C20)",
+  "incident_year": "2020",
+  "total_cnt": 28280,
+  "m_cnt": 16735,
+  "f_cnt": 11545
+ },
+ {
+  "cnacer_type": "대장(C18-C20)",
+  "incident_year": "2021",
+  "total_cnt": 32751,
+  "m_cnt": 19142,
+  "f_cnt": 13609
+ },
+ {
+  "cnacer_type": "간(C22)",
+  "incident_year": "1999",
+  "total_cnt": 13262,
+  "m_cnt": 10022,
+  "f_cnt": 3240
+ },
+ {
+  "cnacer_type": "간(C22)",
+  "incident_year": "2000",
+  "total_cnt": 13088,
+  "m_cnt": 9879,
+  "f_cnt": 3209
+ },
+ {
+  "cnacer_type": "간(C22)",
+  "incident_year": "2001",
+  "total_cnt": 13824,
+  "m_cnt": 10388,
+  "f_cnt": 3436
+ },
+ {
+  "cnacer_type": "간(C22)",
+  "incident_year": "2002",
+  "total_cnt": 13994,
+  "m_cnt": 10512,
+  "f_cnt": 3482
+ },
+ {
+  "cnacer_type": "간(C22)",
+  "incident_year": "2003",
+  "total_cnt": 14105,
+  "m_cnt": 10607,
+  "f_cnt": 3498
+ },
+ {
+  "cnacer_type": "간(C22)",
+  "incident_year": "2004",
+  "total_cnt": 14496,
+  "m_cnt": 10927,
+  "f_cnt": 3569
+ },
+ {
+  "cnacer_type": "간(C22)",
+  "incident_year": "2005",
+  "total_cnt": 15158,
+  "m_cnt": 11424,
+  "f_cnt": 3734
+ },
+ {
+  "cnacer_type": "간(C22)",
+  "incident_year": "2006",
+  "total_cnt": 14994,
+  "m_cnt": 11237,
+  "f_cnt": 3757
+ },
+ {
+  "cnacer_type": "간(C22)",
+  "incident_year": "2007",
+  "total_cnt": 15424,
+  "m_cnt": 11530,
+  "f_cnt": 3894
+ },
+ {
+  "cnacer_type": "간(C22)",
+  "incident_year": "2008",
+  "total_cnt": 15815,
+  "m_cnt": 11906,
+  "f_cnt": 3909
+ },
+ {
+  "cnacer_type": "간(C22)",
+  "incident_year": "2009",
+  "total_cnt": 16041,
+  "m_cnt": 11990,
+  "f_cnt": 4051
+ },
+ {
+  "cnacer_type": "간(C22)",
+  "incident_year": "2010",
+  "total_cnt": 16217,
+  "m_cnt": 12060,
+  "f_cnt": 4157
+ },
+ {
+  "cnacer_type": "간(C22)",
+  "incident_year": "2011",
+  "total_cnt": 16434,
+  "m_cnt": 12190,
+  "f_cnt": 4244
+ },
+ {
+  "cnacer_type": "간(C22)",
+  "incident_year": "2012",
+  "total_cnt": 16187,
+  "m_cnt": 12138,
+  "f_cnt": 4049
+ },
+ {
+  "cnacer_type": "간(C22)",
+  "incident_year": "2013",
+  "total_cnt": 16050,
+  "m_cnt": 12043,
+  "f_cnt": 4007
+ },
+ {
+  "cnacer_type": "간(C22)",
+  "incident_year": "2014",
+  "total_cnt": 15967,
+  "m_cnt": 11943,
+  "f_cnt": 4024
+ },
+ {
+  "cnacer_type": "간(C22)",
+  "incident_year": "2015",
+  "total_cnt": 15996,
+  "m_cnt": 11895,
+  "f_cnt": 4101
+ },
+ {
+  "cnacer_type": "간(C22)",
+  "incident_year": "2016",
+  "total_cnt": 16012,
+  "m_cnt": 11936,
+  "f_cnt": 4076
+ },
+ {
+  "cnacer_type": "간(C22)",
+  "incident_year": "2017",
+  "total_cnt": 15727,
+  "m_cnt": 11733,
+  "f_cnt": 3994
+ },
+ {
+  "cnacer_type": "간(C22)",
+  "incident_year": "2018",
+  "total_cnt": 15904,
+  "m_cnt": 11850,
+  "f_cnt": 4054
+ },
+ {
+  "cnacer_type": "간(C22)",
+  "incident_year": "2019",
+  "total_cnt": 15796,
+  "m_cnt": 11662,
+  "f_cnt": 4134
+ },
+ {
+  "cnacer_type": "간(C22)",
+  "incident_year": "2020",
+  "total_cnt": 15296,
+  "m_cnt": 11241,
+  "f_cnt": 4055
+ },
+ {
+  "cnacer_type": "간(C22)",
+  "incident_year": "2021",
+  "total_cnt": 15131,
+  "m_cnt": 11207,
+  "f_cnt": 3924
+ },
+ {
+  "cnacer_type": "담낭 및 기타 담도(C23-C24)",
+  "incident_year": "1999",
+  "total_cnt": 3047,
+  "m_cnt": 1568,
+  "f_cnt": 1479
+ },
+ {
+  "cnacer_type": "담낭 및 기타 담도(C23-C24)",
+  "incident_year": "2000",
+  "total_cnt": 3130,
+  "m_cnt": 1554,
+  "f_cnt": 1576
+ },
+ {
+  "cnacer_type": "담낭 및 기타 담도(C23-C24)",
+  "incident_year": "2001",
+  "total_cnt": 3430,
+  "m_cnt": 1710,
+  "f_cnt": 1720
+ },
+ {
+  "cnacer_type": "담낭 및 기타 담도(C23-C24)",
+  "incident_year": "2002",
+  "total_cnt": 3568,
+  "m_cnt": 1759,
+  "f_cnt": 1809
+ },
+ {
+  "cnacer_type": "담낭 및 기타 담도(C23-C24)",
+  "incident_year": "2003",
+  "total_cnt": 3709,
+  "m_cnt": 1803,
+  "f_cnt": 1906
+ },
+ {
+  "cnacer_type": "담낭 및 기타 담도(C23-C24)",
+  "incident_year": "2004",
+  "total_cnt": 3987,
+  "m_cnt": 2010,
+  "f_cnt": 1977
+ },
+ {
+  "cnacer_type": "담낭 및 기타 담도(C23-C24)",
+  "incident_year": "2005",
+  "total_cnt": 4282,
+  "m_cnt": 2147,
+  "f_cnt": 2135
+ },
+ {
+  "cnacer_type": "담낭 및 기타 담도(C23-C24)",
+  "incident_year": "2006",
+  "total_cnt": 4147,
+  "m_cnt": 2135,
+  "f_cnt": 2012
+ },
+ {
+  "cnacer_type": "담낭 및 기타 담도(C23-C24)",
+  "incident_year": "2007",
+  "total_cnt": 4401,
+  "m_cnt": 2191,
+  "f_cnt": 2210
+ },
+ {
+  "cnacer_type": "담낭 및 기타 담도(C23-C24)",
+  "incident_year": "2008",
+  "total_cnt": 4564,
+  "m_cnt": 2260,
+  "f_cnt": 2304
+ },
+ {
+  "cnacer_type": "담낭 및 기타 담도(C23-C24)",
+  "incident_year": "2009",
+  "total_cnt": 5032,
+  "m_cnt": 2528,
+  "f_cnt": 2504
+ },
+ {
+  "cnacer_type": "담낭 및 기타 담도(C23-C24)",
+  "incident_year": "2010",
+  "total_cnt": 5182,
+  "m_cnt": 2701,
+  "f_cnt": 2481
+ },
+ {
+  "cnacer_type": "담낭 및 기타 담도(C23-C24)",
+  "incident_year": "2011",
+  "total_cnt": 5444,
+  "m_cnt": 2749,
+  "f_cnt": 2695
+ },
+ {
+  "cnacer_type": "담낭 및 기타 담도(C23-C24)",
+  "incident_year": "2012",
+  "total_cnt": 5579,
+  "m_cnt": 2863,
+  "f_cnt": 2716
+ },
+ {
+  "cnacer_type": "담낭 및 기타 담도(C23-C24)",
+  "incident_year": "2013",
+  "total_cnt": 5808,
+  "m_cnt": 3013,
+  "f_cnt": 2795
+ },
+ {
+  "cnacer_type": "담낭 및 기타 담도(C23-C24)",
+  "incident_year": "2014",
+  "total_cnt": 6138,
+  "m_cnt": 3185,
+  "f_cnt": 2953
+ },
+ {
+  "cnacer_type": "담낭 및 기타 담도(C23-C24)",
+  "incident_year": "2015",
+  "total_cnt": 6326,
+  "m_cnt": 3260,
+  "f_cnt": 3066
+ },
+ {
+  "cnacer_type": "담낭 및 기타 담도(C23-C24)",
+  "incident_year": "2016",
+  "total_cnt": 6772,
+  "m_cnt": 3537,
+  "f_cnt": 3235
+ },
+ {
+  "cnacer_type": "담낭 및 기타 담도(C23-C24)",
+  "incident_year": "2017",
+  "total_cnt": 6939,
+  "m_cnt": 3608,
+  "f_cnt": 3331
+ },
+ {
+  "cnacer_type": "담낭 및 기타 담도(C23-C24)",
+  "incident_year": "2018",
+  "total_cnt": 7262,
+  "m_cnt": 3886,
+  "f_cnt": 3376
+ },
+ {
+  "cnacer_type": "담낭 및 기타 담도(C23-C24)",
+  "incident_year": "2019",
+  "total_cnt": 7443,
+  "m_cnt": 3931,
+  "f_cnt": 3512
+ },
+ {
+  "cnacer_type": "담낭 및 기타 담도(C23-C24)",
+  "incident_year": "2020",
+  "total_cnt": 7510,
+  "m_cnt": 4039,
+  "f_cnt": 3471
+ },
+ {
+  "cnacer_type": "담낭 및 기타 담도(C23-C24)",
+  "incident_year": "2021",
+  "total_cnt": 7617,
+  "m_cnt": 4085,
+  "f_cnt": 3532
+ },
+ {
+  "cnacer_type": "췌장(C25)",
+  "incident_year": "1999",
+  "total_cnt": 2614,
+  "m_cnt": 1530,
+  "f_cnt": 1084
+ },
+ {
+  "cnacer_type": "췌장(C25)",
+  "incident_year": "2000",
+  "total_cnt": 2710,
+  "m_cnt": 1577,
+  "f_cnt": 1133
+ },
+ {
+  "cnacer_type": "췌장(C25)",
+  "incident_year": "2001",
+  "total_cnt": 2786,
+  "m_cnt": 1589,
+  "f_cnt": 1197
+ },
+ {
+  "cnacer_type": "췌장(C25)",
+  "incident_year": "2002",
+  "total_cnt": 3069,
+  "m_cnt": 1761,
+  "f_cnt": 1308
+ },
+ {
+  "cnacer_type": "췌장(C25)",
+  "incident_year": "2003",
+  "total_cnt": 3225,
+  "m_cnt": 1800,
+  "f_cnt": 1425
+ },
+ {
+  "cnacer_type": "췌장(C25)",
+  "incident_year": "2004",
+  "total_cnt": 3409,
+  "m_cnt": 1922,
+  "f_cnt": 1487
+ },
+ {
+  "cnacer_type": "췌장(C25)",
+  "incident_year": "2005",
+  "total_cnt": 3758,
+  "m_cnt": 2076,
+  "f_cnt": 1682
+ },
+ {
+  "cnacer_type": "췌장(C25)",
+  "incident_year": "2006",
+  "total_cnt": 3802,
+  "m_cnt": 2094,
+  "f_cnt": 1708
+ },
+ {
+  "cnacer_type": "췌장(C25)",
+  "incident_year": "2007",
+  "total_cnt": 4083,
+  "m_cnt": 2273,
+  "f_cnt": 1810
+ },
+ {
+  "cnacer_type": "췌장(C25)",
+  "incident_year": "2008",
+  "total_cnt": 4381,
+  "m_cnt": 2442,
+  "f_cnt": 1939
+ },
+ {
+  "cnacer_type": "췌장(C25)",
+  "incident_year": "2009",
+  "total_cnt": 4505,
+  "m_cnt": 2477,
+  "f_cnt": 2028
+ },
+ {
+  "cnacer_type": "췌장(C25)",
+  "incident_year": "2010",
+  "total_cnt": 4767,
+  "m_cnt": 2569,
+  "f_cnt": 2198
+ },
+ {
+  "cnacer_type": "췌장(C25)",
+  "incident_year": "2011",
+  "total_cnt": 5185,
+  "m_cnt": 2864,
+  "f_cnt": 2321
+ },
+ {
+  "cnacer_type": "췌장(C25)",
+  "incident_year": "2012",
+  "total_cnt": 5524,
+  "m_cnt": 3004,
+  "f_cnt": 2520
+ },
+ {
+  "cnacer_type": "췌장(C25)",
+  "incident_year": "2013",
+  "total_cnt": 5592,
+  "m_cnt": 3018,
+  "f_cnt": 2574
+ },
+ {
+  "cnacer_type": "췌장(C25)",
+  "incident_year": "2014",
+  "total_cnt": 6058,
+  "m_cnt": 3249,
+  "f_cnt": 2809
+ },
+ {
+  "cnacer_type": "췌장(C25)",
+  "incident_year": "2015",
+  "total_cnt": 6424,
+  "m_cnt": 3402,
+  "f_cnt": 3022
+ },
+ {
+  "cnacer_type": "췌장(C25)",
+  "incident_year": "2016",
+  "total_cnt": 6775,
+  "m_cnt": 3436,
+  "f_cnt": 3339
+ },
+ {
+  "cnacer_type": "췌장(C25)",
+  "incident_year": "2017",
+  "total_cnt": 7157,
+  "m_cnt": 3782,
+  "f_cnt": 3375
+ },
+ {
+  "cnacer_type": "췌장(C25)",
+  "incident_year": "2018",
+  "total_cnt": 7704,
+  "m_cnt": 4063,
+  "f_cnt": 3641
+ },
+ {
+  "cnacer_type": "췌장(C25)",
+  "incident_year": "2019",
+  "total_cnt": 8168,
+  "m_cnt": 4188,
+  "f_cnt": 3980
+ },
+ {
+  "cnacer_type": "췌장(C25)",
+  "incident_year": "2020",
+  "total_cnt": 8470,
+  "m_cnt": 4350,
+  "f_cnt": 4120
+ },
+ {
+  "cnacer_type": "췌장(C25)",
+  "incident_year": "2021",
+  "total_cnt": 8872,
+  "m_cnt": 4592,
+  "f_cnt": 4280
+ },
+ {
+  "cnacer_type": "후두(C32)",
+  "incident_year": "1999",
+  "total_cnt": 1101,
+  "m_cnt": 975,
+  "f_cnt": 126
+ },
+ {
+  "cnacer_type": "후두(C32)",
+  "incident_year": "2000",
+  "total_cnt": 1044,
+  "m_cnt": 950,
+  "f_cnt": 94
+ },
+ {
+  "cnacer_type": "후두(C32)",
+  "incident_year": "2001",
+  "total_cnt": 1179,
+  "m_cnt": 1088,
+  "f_cnt": 91
+ },
+ {
+  "cnacer_type": "후두(C32)",
+  "incident_year": "2002",
+  "total_cnt": 1133,
+  "m_cnt": 1040,
+  "f_cnt": 93
+ },
+ {
+  "cnacer_type": "후두(C32)",
+  "incident_year": "2003",
+  "total_cnt": 1119,
+  "m_cnt": 1033,
+  "f_cnt": 86
+ },
+ {
+  "cnacer_type": "후두(C32)",
+  "incident_year": "2004",
+  "total_cnt": 1084,
+  "m_cnt": 991,
+  "f_cnt": 93
+ },
+ {
+  "cnacer_type": "후두(C32)",
+  "incident_year": "2005",
+  "total_cnt": 1161,
+  "m_cnt": 1077,
+  "f_cnt": 84
+ },
+ {
+  "cnacer_type": "후두(C32)",
+  "incident_year": "2006",
+  "total_cnt": 1073,
+  "m_cnt": 996,
+  "f_cnt": 77
+ },
+ {
+  "cnacer_type": "후두(C32)",
+  "incident_year": "2007",
+  "total_cnt": 1121,
+  "m_cnt": 1054,
+  "f_cnt": 67
+ },
+ {
+  "cnacer_type": "후두(C32)",
+  "incident_year": "2008",
+  "total_cnt": 1108,
+  "m_cnt": 1032,
+  "f_cnt": 76
+ },
+ {
+  "cnacer_type": "후두(C32)",
+  "incident_year": "2009",
+  "total_cnt": 1171,
+  "m_cnt": 1103,
+  "f_cnt": 68
+ },
+ {
+  "cnacer_type": "후두(C32)",
+  "incident_year": "2010",
+  "total_cnt": 1183,
+  "m_cnt": 1107,
+  "f_cnt": 76
+ },
+ {
+  "cnacer_type": "후두(C32)",
+  "incident_year": "2011",
+  "total_cnt": 1136,
+  "m_cnt": 1069,
+  "f_cnt": 67
+ },
+ {
+  "cnacer_type": "후두(C32)",
+  "incident_year": "2012",
+  "total_cnt": 1128,
+  "m_cnt": 1064,
+  "f_cnt": 64
+ },
+ {
+  "cnacer_type": "후두(C32)",
+  "incident_year": "2013",
+  "total_cnt": 1222,
+  "m_cnt": 1138,
+  "f_cnt": 84
+ },
+ {
+  "cnacer_type": "후두(C32)",
+  "incident_year": "2014",
+  "total_cnt": 1136,
+  "m_cnt": 1073,
+  "f_cnt": 63
+ },
+ {
+  "cnacer_type": "후두(C32)",
+  "incident_year": "2015",
+  "total_cnt": 1159,
+  "m_cnt": 1092,
+  "f_cnt": 67
+ },
+ {
+  "cnacer_type": "후두(C32)",
+  "incident_year": "2016",
+  "total_cnt": 1189,
+  "m_cnt": 1121,
+  "f_cnt": 68
+ },
+ {
+  "cnacer_type": "후두(C32)",
+  "incident_year": "2017",
+  "total_cnt": 1245,
+  "m_cnt": 1166,
+  "f_cnt": 79
+ },
+ {
+  "cnacer_type": "후두(C32)",
+  "incident_year": "2018",
+  "total_cnt": 1166,
+  "m_cnt": 1103,
+  "f_cnt": 63
+ },
+ {
+  "cnacer_type": "후두(C32)",
+  "incident_year": "2019",
+  "total_cnt": 1232,
+  "m_cnt": 1163,
+  "f_cnt": 69
+ },
+ {
+  "cnacer_type": "후두(C32)",
+  "incident_year": "2020",
+  "total_cnt": 1213,
+  "m_cnt": 1151,
+  "f_cnt": 62
+ },
+ {
+  "cnacer_type": "후두(C32)",
+  "incident_year": "2021",
+  "total_cnt": 1302,
+  "m_cnt": 1226,
+  "f_cnt": 76
+ },
+ {
+  "cnacer_type": "폐(C33-C34)",
+  "incident_year": "1999",
+  "total_cnt": 13230,
+  "m_cnt": 9744,
+  "f_cnt": 3486
+ },
+ {
+  "cnacer_type": "폐(C33-C34)",
+  "incident_year": "2000",
+  "total_cnt": 13419,
+  "m_cnt": 9819,
+  "f_cnt": 3600
+ },
+ {
+  "cnacer_type": "폐(C33-C34)",
+  "incident_year": "2001",
+  "total_cnt": 14193,
+  "m_cnt": 10513,
+  "f_cnt": 3680
+ },
+ {
+  "cnacer_type": "폐(C33-C34)",
+  "incident_year": "2002",
+  "total_cnt": 14970,
+  "m_cnt": 11013,
+  "f_cnt": 3957
+ },
+ {
+  "cnacer_type": "폐(C33-C34)",
+  "incident_year": "2003",
+  "total_cnt": 15235,
+  "m_cnt": 11229,
+  "f_cnt": 4006
+ },
+ {
+  "cnacer_type": "폐(C33-C34)",
+  "incident_year": "2004",
+  "total_cnt": 16378,
+  "m_cnt": 11989,
+  "f_cnt": 4389
+ },
+ {
+  "cnacer_type": "폐(C33-C34)",
+  "incident_year": "2005",
+  "total_cnt": 17272,
+  "m_cnt": 12522,
+  "f_cnt": 4750
+ },
+ {
+  "cnacer_type": "폐(C33-C34)",
+  "incident_year": "2006",
+  "total_cnt": 17767,
+  "m_cnt": 12705,
+  "f_cnt": 5062
+ },
+ {
+  "cnacer_type": "폐(C33-C34)",
+  "incident_year": "2007",
+  "total_cnt": 18498,
+  "m_cnt": 13227,
+  "f_cnt": 5271
+ },
+ {
+  "cnacer_type": "폐(C33-C34)",
+  "incident_year": "2008",
+  "total_cnt": 19204,
+  "m_cnt": 13645,
+  "f_cnt": 5559
+ },
+ {
+  "cnacer_type": "폐(C33-C34)",
+  "incident_year": "2009",
+  "total_cnt": 20147,
+  "m_cnt": 14312,
+  "f_cnt": 5835
+ },
+ {
+  "cnacer_type": "폐(C33-C34)",
+  "incident_year": "2010",
+  "total_cnt": 21373,
+  "m_cnt": 15064,
+  "f_cnt": 6309
+ },
+ {
+  "cnacer_type": "폐(C33-C34)",
+  "incident_year": "2011",
+  "total_cnt": 22331,
+  "m_cnt": 15530,
+  "f_cnt": 6801
+ },
+ {
+  "cnacer_type": "폐(C33-C34)",
+  "incident_year": "2012",
+  "total_cnt": 22646,
+  "m_cnt": 15679,
+  "f_cnt": 6967
+ },
+ {
+  "cnacer_type": "폐(C33-C34)",
+  "incident_year": "2013",
+  "total_cnt": 23655,
+  "m_cnt": 16476,
+  "f_cnt": 7179
+ },
+ {
+  "cnacer_type": "폐(C33-C34)",
+  "incident_year": "2014",
+  "total_cnt": 24548,
+  "m_cnt": 17085,
+  "f_cnt": 7463
+ },
+ {
+  "cnacer_type": "폐(C33-C34)",
+  "incident_year": "2015",
+  "total_cnt": 24791,
+  "m_cnt": 17324,
+  "f_cnt": 7467
+ },
+ {
+  "cnacer_type": "폐(C33-C34)",
+  "incident_year": "2016",
+  "total_cnt": 26347,
+  "m_cnt": 18153,
+  "f_cnt": 8194
+ },
+ {
+  "cnacer_type": "폐(C33-C34)",
+  "incident_year": "2017",
+  "total_cnt": 27581,
+  "m_cnt": 19016,
+  "f_cnt": 8565
+ },
+ {
+  "cnacer_type": "폐(C33-C34)",
+  "incident_year": "2018",
+  "total_cnt": 29046,
+  "m_cnt": 19790,
+  "f_cnt": 9256
+ },
+ {
+  "cnacer_type": "폐(C33-C34)",
+  "incident_year": "2019",
+  "total_cnt": 30371,
+  "m_cnt": 20603,
+  "f_cnt": 9768
+ },
+ {
+  "cnacer_type": "폐(C33-C34)",
+  "incident_year": "2020",
+  "total_cnt": 29219,
+  "m_cnt": 19837,
+  "f_cnt": 9382
+ },
+ {
+  "cnacer_type": "폐(C33-C34)",
+  "incident_year": "2021",
+  "total_cnt": 31616,
+  "m_cnt": 21176,
+  "f_cnt": 10440
+ },
+ {
+  "cnacer_type": "유방(C50)",
+  "incident_year": "1999",
+  "total_cnt": 5880,
+  "m_cnt": 41,
+  "f_cnt": 5839
+ },
+ {
+  "cnacer_type": "유방(C50)",
+  "incident_year": "2000",
+  "total_cnt": 6095,
+  "m_cnt": 59,
+  "f_cnt": 6036
+ },
+ {
+  "cnacer_type": "유방(C50)",
+  "incident_year": "2001",
+  "total_cnt": 7346,
+  "m_cnt": 48,
+  "f_cnt": 7298
+ },
+ {
+  "cnacer_type": "유방(C50)",
+  "incident_year": "2002",
+  "total_cnt": 8305,
+  "m_cnt": 62,
+  "f_cnt": 8243
+ },
+ {
+  "cnacer_type": "유방(C50)",
+  "incident_year": "2003",
+  "total_cnt": 8551,
+  "m_cnt": 58,
+  "f_cnt": 8493
+ },
+ {
+  "cnacer_type": "유방(C50)",
+  "incident_year": "2004",
+  "total_cnt": 9249,
+  "m_cnt": 51,
+  "f_cnt": 9198
+ },
+ {
+  "cnacer_type": "유방(C50)",
+  "incident_year": "2005",
+  "total_cnt": 10325,
+  "m_cnt": 57,
+  "f_cnt": 10268
+ },
+ {
+  "cnacer_type": "유방(C50)",
+  "incident_year": "2006",
+  "total_cnt": 10965,
+  "m_cnt": 51,
+  "f_cnt": 10914
+ },
+ {
+  "cnacer_type": "유방(C50)",
+  "incident_year": "2007",
+  "total_cnt": 12052,
+  "m_cnt": 35,
+  "f_cnt": 12017
+ },
+ {
+  "cnacer_type": "유방(C50)",
+  "incident_year": "2008",
+  "total_cnt": 12919,
+  "m_cnt": 76,
+  "f_cnt": 12843
+ },
+ {
+  "cnacer_type": "유방(C50)",
+  "incident_year": "2009",
+  "total_cnt": 13737,
+  "m_cnt": 62,
+  "f_cnt": 13675
+ },
+ {
+  "cnacer_type": "유방(C50)",
+  "incident_year": "2010",
+  "total_cnt": 14759,
+  "m_cnt": 70,
+  "f_cnt": 14689
+ },
+ {
+  "cnacer_type": "유방(C50)",
+  "incident_year": "2011",
+  "total_cnt": 16261,
+  "m_cnt": 75,
+  "f_cnt": 16186
+ },
+ {
+  "cnacer_type": "유방(C50)",
+  "incident_year": "2012",
+  "total_cnt": 16873,
+  "m_cnt": 70,
+  "f_cnt": 16803
+ },
+ {
+  "cnacer_type": "유방(C50)",
+  "incident_year": "2013",
+  "total_cnt": 17578,
+  "m_cnt": 63,
+  "f_cnt": 17515
+ },
+ {
+  "cnacer_type": "유방(C50)",
+  "incident_year": "2014",
+  "total_cnt": 18594,
+  "m_cnt": 78,
+  "f_cnt": 18516
+ },
+ {
+  "cnacer_type": "유방(C50)",
+  "incident_year": "2015",
+  "total_cnt": 19437,
+  "m_cnt": 79,
+  "f_cnt": 19358
+ },
+ {
+  "cnacer_type": "유방(C50)",
+  "incident_year": "2016",
+  "total_cnt": 22029,
+  "m_cnt": 95,
+  "f_cnt": 21934
+ },
+ {
+  "cnacer_type": "유방(C50)",
+  "incident_year": "2017",
+  "total_cnt": 22708,
+  "m_cnt": 99,
+  "f_cnt": 22609
+ },
+ {
+  "cnacer_type": "유방(C50)",
+  "incident_year": "2018",
+  "total_cnt": 23797,
+  "m_cnt": 101,
+  "f_cnt": 23696
+ },
+ {
+  "cnacer_type": "유방(C50)",
+  "incident_year": "2019",
+  "total_cnt": 25077,
+  "m_cnt": 114,
+  "f_cnt": 24963
+ },
+ {
+  "cnacer_type": "유방(C50)",
+  "incident_year": "2020",
+  "total_cnt": 25037,
+  "m_cnt": 119,
+  "f_cnt": 24918
+ },
+ {
+  "cnacer_type": "유방(C50)",
+  "incident_year": "2021",
+  "total_cnt": 28861,
+  "m_cnt": 141,
+  "f_cnt": 28720
+ },
+ {
+  "cnacer_type": "자궁경부(C53)",
+  "incident_year": "1999",
+  "total_cnt": 4486,
+  "m_cnt": 0,
+  "f_cnt": 4486
+ },
+ {
+  "cnacer_type": "자궁경부(C53)",
+  "incident_year": "2000",
+  "total_cnt": 4353,
+  "m_cnt": 0,
+  "f_cnt": 4353
+ },
+ {
+  "cnacer_type": "자궁경부(C53)",
+  "incident_year": "2001",
+  "total_cnt": 4655,
+  "m_cnt": 0,
+  "f_cnt": 4655
+ },
+ {
+  "cnacer_type": "자궁경부(C53)",
+  "incident_year": "2002",
+  "total_cnt": 4495,
+  "m_cnt": 0,
+  "f_cnt": 4495
+ },
+ {
+  "cnacer_type": "자궁경부(C53)",
+  "incident_year": "2003",
+  "total_cnt": 4386,
+  "m_cnt": 0,
+  "f_cnt": 4386
+ },
+ {
+  "cnacer_type": "자궁경부(C53)",
+  "incident_year": "2004",
+  "total_cnt": 4144,
+  "m_cnt": 0,
+  "f_cnt": 4144
+ },
+ {
+  "cnacer_type": "자궁경부(C53)",
+  "incident_year": "2005",
+  "total_cnt": 4047,
+  "m_cnt": 0,
+  "f_cnt": 4047
+ },
+ {
+  "cnacer_type": "자궁경부(C53)",
+  "incident_year": "2006",
+  "total_cnt": 4069,
+  "m_cnt": 0,
+  "f_cnt": 4069
+ },
+ {
+  "cnacer_type": "자궁경부(C53)",
+  "incident_year": "2007",
+  "total_cnt": 3790,
+  "m_cnt": 0,
+  "f_cnt": 3790
+ },
+ {
+  "cnacer_type": "자궁경부(C53)",
+  "incident_year": "2008",
+  "total_cnt": 4034,
+  "m_cnt": 0,
+  "f_cnt": 4034
+ },
+ {
+  "cnacer_type": "자궁경부(C53)",
+  "incident_year": "2009",
+  "total_cnt": 3852,
+  "m_cnt": 0,
+  "f_cnt": 3852
+ },
+ {
+  "cnacer_type": "자궁경부(C53)",
+  "incident_year": "2010",
+  "total_cnt": 4031,
+  "m_cnt": 0,
+  "f_cnt": 4031
+ },
+ {
+  "cnacer_type": "자궁경부(C53)",
+  "incident_year": "2011",
+  "total_cnt": 3828,
+  "m_cnt": 0,
+  "f_cnt": 3828
+ },
+ {
+  "cnacer_type": "자궁경부(C53)",
+  "incident_year": "2012",
+  "total_cnt": 3698,
+  "m_cnt": 0,
+  "f_cnt": 3698
+ },
+ {
+  "cnacer_type": "자궁경부(C53)",
+  "incident_year": "2013",
+  "total_cnt": 3727,
+  "m_cnt": 0,
+  "f_cnt": 3727
+ },
+ {
+  "cnacer_type": "자궁경부(C53)",
+  "incident_year": "2014",
+  "total_cnt": 3609,
+  "m_cnt": 0,
+  "f_cnt": 3609
+ },
+ {
+  "cnacer_type": "자궁경부(C53)",
+  "incident_year": "2015",
+  "total_cnt": 3671,
+  "m_cnt": 0,
+  "f_cnt": 3671
+ },
+ {
+  "cnacer_type": "자궁경부(C53)",
+  "incident_year": "2016",
+  "total_cnt": 3636,
+  "m_cnt": 0,
+  "f_cnt": 3636
+ },
+ {
+  "cnacer_type": "자궁경부(C53)",
+  "incident_year": "2017",
+  "total_cnt": 3539,
+  "m_cnt": 0,
+  "f_cnt": 3539
+ },
+ {
+  "cnacer_type": "자궁경부(C53)",
+  "incident_year": "2018",
+  "total_cnt": 3566,
+  "m_cnt": 0,
+  "f_cnt": 3566
+ },
+ {
+  "cnacer_type": "자궁경부(C53)",
+  "incident_year": "2019",
+  "total_cnt": 3317,
+  "m_cnt": 0,
+  "f_cnt": 3317
+ },
+ {
+  "cnacer_type": "자궁경부(C53)",
+  "incident_year": "2020",
+  "total_cnt": 3031,
+  "m_cnt": 0,
+  "f_cnt": 3031
+ },
+ {
+  "cnacer_type": "자궁경부(C53)",
+  "incident_year": "2021",
+  "total_cnt": 3173,
+  "m_cnt": 0,
+  "f_cnt": 3173
+ },
+ {
+  "cnacer_type": "자궁체부(C54)",
+  "incident_year": "1999",
+  "total_cnt": 728,
+  "m_cnt": 0,
+  "f_cnt": 728
+ },
+ {
+  "cnacer_type": "자궁체부(C54)",
+  "incident_year": "2000",
+  "total_cnt": 729,
+  "m_cnt": 0,
+  "f_cnt": 729
+ },
+ {
+  "cnacer_type": "자궁체부(C54)",
+  "incident_year": "2001",
+  "total_cnt": 839,
+  "m_cnt": 0,
+  "f_cnt": 839
+ },
+ {
+  "cnacer_type": "자궁체부(C54)",
+  "incident_year": "2002",
+  "total_cnt": 945,
+  "m_cnt": 0,
+  "f_cnt": 945
+ },
+ {
+  "cnacer_type": "자궁체부(C54)",
+  "incident_year": "2003",
+  "total_cnt": 1096,
+  "m_cnt": 0,
+  "f_cnt": 1096
+ },
+ {
+  "cnacer_type": "자궁체부(C54)",
+  "incident_year": "2004",
+  "total_cnt": 1125,
+  "m_cnt": 0,
+  "f_cnt": 1125
+ },
+ {
+  "cnacer_type": "자궁체부(C54)",
+  "incident_year": "2005",
+  "total_cnt": 1217,
+  "m_cnt": 0,
+  "f_cnt": 1217
+ },
+ {
+  "cnacer_type": "자궁체부(C54)",
+  "incident_year": "2006",
+  "total_cnt": 1293,
+  "m_cnt": 0,
+  "f_cnt": 1293
+ },
+ {
+  "cnacer_type": "자궁체부(C54)",
+  "incident_year": "2007",
+  "total_cnt": 1391,
+  "m_cnt": 0,
+  "f_cnt": 1391
+ },
+ {
+  "cnacer_type": "자궁체부(C54)",
+  "incident_year": "2008",
+  "total_cnt": 1595,
+  "m_cnt": 0,
+  "f_cnt": 1595
+ },
+ {
+  "cnacer_type": "자궁체부(C54)",
+  "incident_year": "2009",
+  "total_cnt": 1750,
+  "m_cnt": 0,
+  "f_cnt": 1750
+ },
+ {
+  "cnacer_type": "자궁체부(C54)",
+  "incident_year": "2010",
+  "total_cnt": 1812,
+  "m_cnt": 0,
+  "f_cnt": 1812
+ },
+ {
+  "cnacer_type": "자궁체부(C54)",
+  "incident_year": "2011",
+  "total_cnt": 1964,
+  "m_cnt": 0,
+  "f_cnt": 1964
+ },
+ {
+  "cnacer_type": "자궁체부(C54)",
+  "incident_year": "2012",
+  "total_cnt": 2014,
+  "m_cnt": 0,
+  "f_cnt": 2014
+ },
+ {
+  "cnacer_type": "자궁체부(C54)",
+  "incident_year": "2013",
+  "total_cnt": 2261,
+  "m_cnt": 0,
+  "f_cnt": 2261
+ },
+ {
+  "cnacer_type": "자궁체부(C54)",
+  "incident_year": "2014",
+  "total_cnt": 2254,
+  "m_cnt": 0,
+  "f_cnt": 2254
+ },
+ {
+  "cnacer_type": "자궁체부(C54)",
+  "incident_year": "2015",
+  "total_cnt": 2448,
+  "m_cnt": 0,
+  "f_cnt": 2448
+ },
+ {
+  "cnacer_type": "자궁체부(C54)",
+  "incident_year": "2016",
+  "total_cnt": 2808,
+  "m_cnt": 0,
+  "f_cnt": 2808
+ },
+ {
+  "cnacer_type": "자궁체부(C54)",
+  "incident_year": "2017",
+  "total_cnt": 3016,
+  "m_cnt": 0,
+  "f_cnt": 3016
+ },
+ {
+  "cnacer_type": "자궁체부(C54)",
+  "incident_year": "2018",
+  "total_cnt": 3204,
+  "m_cnt": 0,
+  "f_cnt": 3204
+ },
+ {
+  "cnacer_type": "자궁체부(C54)",
+  "incident_year": "2019",
+  "total_cnt": 3311,
+  "m_cnt": 0,
+  "f_cnt": 3311
+ },
+ {
+  "cnacer_type": "자궁체부(C54)",
+  "incident_year": "2020",
+  "total_cnt": 3519,
+  "m_cnt": 0,
+  "f_cnt": 3519
+ },
+ {
+  "cnacer_type": "자궁체부(C54)",
+  "incident_year": "2021",
+  "total_cnt": 3749,
+  "m_cnt": 0,
+  "f_cnt": 3749
+ },
+ {
+  "cnacer_type": "난소(C56)",
+  "incident_year": "1999",
+  "total_cnt": 1353,
+  "m_cnt": 0,
+  "f_cnt": 1353
+ },
+ {
+  "cnacer_type": "난소(C56)",
+  "incident_year": "2000",
+  "total_cnt": 1304,
+  "m_cnt": 0,
+  "f_cnt": 1304
+ },
+ {
+  "cnacer_type": "난소(C56)",
+  "incident_year": "2001",
+  "total_cnt": 1351,
+  "m_cnt": 0,
+  "f_cnt": 1351
+ },
+ {
+  "cnacer_type": "난소(C56)",
+  "incident_year": "2002",
+  "total_cnt": 1470,
+  "m_cnt": 0,
+  "f_cnt": 1470
+ },
+ {
+  "cnacer_type": "난소(C56)",
+  "incident_year": "2003",
+  "total_cnt": 1484,
+  "m_cnt": 0,
+  "f_cnt": 1484
+ },
+ {
+  "cnacer_type": "난소(C56)",
+  "incident_year": "2004",
+  "total_cnt": 1562,
+  "m_cnt": 0,
+  "f_cnt": 1562
+ },
+ {
+  "cnacer_type": "난소(C56)",
+  "incident_year": "2005",
+  "total_cnt": 1681,
+  "m_cnt": 0,
+  "f_cnt": 1681
+ },
+ {
+  "cnacer_type": "난소(C56)",
+  "incident_year": "2006",
+  "total_cnt": 1716,
+  "m_cnt": 0,
+  "f_cnt": 1716
+ },
+ {
+  "cnacer_type": "난소(C56)",
+  "incident_year": "2007",
+  "total_cnt": 1931,
+  "m_cnt": 0,
+  "f_cnt": 1931
+ },
+ {
+  "cnacer_type": "난소(C56)",
+  "incident_year": "2008",
+  "total_cnt": 1905,
+  "m_cnt": 0,
+  "f_cnt": 1905
+ },
+ {
+  "cnacer_type": "난소(C56)",
+  "incident_year": "2009",
+  "total_cnt": 1859,
+  "m_cnt": 0,
+  "f_cnt": 1859
+ },
+ {
+  "cnacer_type": "난소(C56)",
+  "incident_year": "2010",
+  "total_cnt": 2081,
+  "m_cnt": 0,
+  "f_cnt": 2081
+ },
+ {
+  "cnacer_type": "난소(C56)",
+  "incident_year": "2011",
+  "total_cnt": 2086,
+  "m_cnt": 0,
+  "f_cnt": 2086
+ },
+ {
+  "cnacer_type": "난소(C56)",
+  "incident_year": "2012",
+  "total_cnt": 2239,
+  "m_cnt": 0,
+  "f_cnt": 2239
+ },
+ {
+  "cnacer_type": "난소(C56)",
+  "incident_year": "2013",
+  "total_cnt": 2301,
+  "m_cnt": 0,
+  "f_cnt": 2301
+ },
+ {
+  "cnacer_type": "난소(C56)",
+  "incident_year": "2014",
+  "total_cnt": 2500,
+  "m_cnt": 0,
+  "f_cnt": 2500
+ },
+ {
+  "cnacer_type": "난소(C56)",
+  "incident_year": "2015",
+  "total_cnt": 2514,
+  "m_cnt": 0,
+  "f_cnt": 2514
+ },
+ {
+  "cnacer_type": "난소(C56)",
+  "incident_year": "2016",
+  "total_cnt": 2705,
+  "m_cnt": 0,
+  "f_cnt": 2705
+ },
+ {
+  "cnacer_type": "난소(C56)",
+  "incident_year": "2017",
+  "total_cnt": 2773,
+  "m_cnt": 0,
+  "f_cnt": 2773
+ },
+ {
+  "cnacer_type": "난소(C56)",
+  "incident_year": "2018",
+  "total_cnt": 2970,
+  "m_cnt": 0,
+  "f_cnt": 2970
+ },
+ {
+  "cnacer_type": "난소(C56)",
+  "incident_year": "2019",
+  "total_cnt": 2943,
+  "m_cnt": 0,
+  "f_cnt": 2943
+ },
+ {
+  "cnacer_type": "난소(C56)",
+  "incident_year": "2020",
+  "total_cnt": 2991,
+  "m_cnt": 0,
+  "f_cnt": 2991
+ },
+ {
+  "cnacer_type": "난소(C56)",
+  "incident_year": "2021",
+  "total_cnt": 3221,
+  "m_cnt": 0,
+  "f_cnt": 3221
+ },
+ {
+  "cnacer_type": "전립선(C61)",
+  "incident_year": "1999",
+  "total_cnt": 1454,
+  "m_cnt": 1454,
+  "f_cnt": 0
+ },
+ {
+  "cnacer_type": "전립선(C61)",
+  "incident_year": "2000",
+  "total_cnt": 1370,
+  "m_cnt": 1370,
+  "f_cnt": 0
+ },
+ {
+  "cnacer_type": "전립선(C61)",
+  "incident_year": "2001",
+  "total_cnt": 1871,
+  "m_cnt": 1871,
+  "f_cnt": 0
+ },
+ {
+  "cnacer_type": "전립선(C61)",
+  "incident_year": "2002",
+  "total_cnt": 2142,
+  "m_cnt": 2142,
+  "f_cnt": 0
+ },
+ {
+  "cnacer_type": "전립선(C61)",
+  "incident_year": "2003",
+  "total_cnt": 2673,
+  "m_cnt": 2673,
+  "f_cnt": 0
+ },
+ {
+  "cnacer_type": "전립선(C61)",
+  "incident_year": "2004",
+  "total_cnt": 3423,
+  "m_cnt": 3423,
+  "f_cnt": 0
+ },
+ {
+  "cnacer_type": "전립선(C61)",
+  "incident_year": "2005",
+  "total_cnt": 3764,
+  "m_cnt": 3764,
+  "f_cnt": 0
+ },
+ {
+  "cnacer_type": "전립선(C61)",
+  "incident_year": "2006",
+  "total_cnt": 4535,
+  "m_cnt": 4535,
+  "f_cnt": 0
+ },
+ {
+  "cnacer_type": "전립선(C61)",
+  "incident_year": "2007",
+  "total_cnt": 5574,
+  "m_cnt": 5574,
+  "f_cnt": 0
+ },
+ {
+  "cnacer_type": "전립선(C61)",
+  "incident_year": "2008",
+  "total_cnt": 6651,
+  "m_cnt": 6651,
+  "f_cnt": 0
+ },
+ {
+  "cnacer_type": "전립선(C61)",
+  "incident_year": "2009",
+  "total_cnt": 7570,
+  "m_cnt": 7570,
+  "f_cnt": 0
+ },
+ {
+  "cnacer_type": "전립선(C61)",
+  "incident_year": "2010",
+  "total_cnt": 8202,
+  "m_cnt": 8202,
+  "f_cnt": 0
+ },
+ {
+  "cnacer_type": "전립선(C61)",
+  "incident_year": "2011",
+  "total_cnt": 9159,
+  "m_cnt": 9159,
+  "f_cnt": 0
+ },
+ {
+  "cnacer_type": "전립선(C61)",
+  "incident_year": "2012",
+  "total_cnt": 9458,
+  "m_cnt": 9458,
+  "f_cnt": 0
+ },
+ {
+  "cnacer_type": "전립선(C61)",
+  "incident_year": "2013",
+  "total_cnt": 9742,
+  "m_cnt": 9742,
+  "f_cnt": 0
+ },
+ {
+  "cnacer_type": "전립선(C61)",
+  "incident_year": "2014",
+  "total_cnt": 10015,
+  "m_cnt": 10015,
+  "f_cnt": 0
+ },
+ {
+  "cnacer_type": "전립선(C61)",
+  "incident_year": "2015",
+  "total_cnt": 10426,
+  "m_cnt": 10426,
+  "f_cnt": 0
+ },
+ {
+  "cnacer_type": "전립선(C61)",
+  "incident_year": "2016",
+  "total_cnt": 12050,
+  "m_cnt": 12050,
+  "f_cnt": 0
+ },
+ {
+  "cnacer_type": "전립선(C61)",
+  "incident_year": "2017",
+  "total_cnt": 13069,
+  "m_cnt": 13069,
+  "f_cnt": 0
+ },
+ {
+  "cnacer_type": "전립선(C61)",
+  "incident_year": "2018",
+  "total_cnt": 15068,
+  "m_cnt": 15068,
+  "f_cnt": 0
+ },
+ {
+  "cnacer_type": "전립선(C61)",
+  "incident_year": "2019",
+  "total_cnt": 17009,
+  "m_cnt": 17009,
+  "f_cnt": 0
+ },
+ {
+  "cnacer_type": "전립선(C61)",
+  "incident_year": "2020",
+  "total_cnt": 16968,
+  "m_cnt": 16968,
+  "f_cnt": 0
+ },
+ {
+  "cnacer_type": "전립선(C61)",
+  "incident_year": "2021",
+  "total_cnt": 18697,
+  "m_cnt": 18697,
+  "f_cnt": 0
+ },
+ {
+  "cnacer_type": "고환(C62)",
+  "incident_year": "1999",
+  "total_cnt": 129,
+  "m_cnt": 129,
+  "f_cnt": 0
+ },
+ {
+  "cnacer_type": "고환(C62)",
+  "incident_year": "2000",
+  "total_cnt": 134,
+  "m_cnt": 134,
+  "f_cnt": 0
+ },
+ {
+  "cnacer_type": "고환(C62)",
+  "incident_year": "2001",
+  "total_cnt": 144,
+  "m_cnt": 144,
+  "f_cnt": 0
+ },
+ {
+  "cnacer_type": "고환(C62)",
+  "incident_year": "2002",
+  "total_cnt": 155,
+  "m_cnt": 155,
+  "f_cnt": 0
+ },
+ {
+  "cnacer_type": "고환(C62)",
+  "incident_year": "2003",
+  "total_cnt": 154,
+  "m_cnt": 154,
+  "f_cnt": 0
+ },
+ {
+  "cnacer_type": "고환(C62)",
+  "incident_year": "2004",
+  "total_cnt": 155,
+  "m_cnt": 155,
+  "f_cnt": 0
+ },
+ {
+  "cnacer_type": "고환(C62)",
+  "incident_year": "2005",
+  "total_cnt": 154,
+  "m_cnt": 154,
+  "f_cnt": 0
+ },
+ {
+  "cnacer_type": "고환(C62)",
+  "incident_year": "2006",
+  "total_cnt": 182,
+  "m_cnt": 182,
+  "f_cnt": 0
+ },
+ {
+  "cnacer_type": "고환(C62)",
+  "incident_year": "2007",
+  "total_cnt": 182,
+  "m_cnt": 182,
+  "f_cnt": 0
+ },
+ {
+  "cnacer_type": "고환(C62)",
+  "incident_year": "2008",
+  "total_cnt": 177,
+  "m_cnt": 177,
+  "f_cnt": 0
+ },
+ {
+  "cnacer_type": "고환(C62)",
+  "incident_year": "2009",
+  "total_cnt": 202,
+  "m_cnt": 202,
+  "f_cnt": 0
+ },
+ {
+  "cnacer_type": "고환(C62)",
+  "incident_year": "2010",
+  "total_cnt": 211,
+  "m_cnt": 211,
+  "f_cnt": 0
+ },
+ {
+  "cnacer_type": "고환(C62)",
+  "incident_year": "2011",
+  "total_cnt": 228,
+  "m_cnt": 228,
+  "f_cnt": 0
+ },
+ {
+  "cnacer_type": "고환(C62)",
+  "incident_year": "2012",
+  "total_cnt": 248,
+  "m_cnt": 248,
+  "f_cnt": 0
+ },
+ {
+  "cnacer_type": "고환(C62)",
+  "incident_year": "2013",
+  "total_cnt": 258,
+  "m_cnt": 258,
+  "f_cnt": 0
+ },
+ {
+  "cnacer_type": "고환(C62)",
+  "incident_year": "2014",
+  "total_cnt": 261,
+  "m_cnt": 261,
+  "f_cnt": 0
+ },
+ {
+  "cnacer_type": "고환(C62)",
+  "incident_year": "2015",
+  "total_cnt": 289,
+  "m_cnt": 289,
+  "f_cnt": 0
+ },
+ {
+  "cnacer_type": "고환(C62)",
+  "incident_year": "2016",
+  "total_cnt": 293,
+  "m_cnt": 293,
+  "f_cnt": 0
+ },
+ {
+  "cnacer_type": "고환(C62)",
+  "incident_year": "2017",
+  "total_cnt": 263,
+  "m_cnt": 263,
+  "f_cnt": 0
+ },
+ {
+  "cnacer_type": "고환(C62)",
+  "incident_year": "2018",
+  "total_cnt": 336,
+  "m_cnt": 336,
+  "f_cnt": 0
+ },
+ {
+  "cnacer_type": "고환(C62)",
+  "incident_year": "2019",
+  "total_cnt": 328,
+  "m_cnt": 328,
+  "f_cnt": 0
+ },
+ {
+  "cnacer_type": "고환(C62)",
+  "incident_year": "2020",
+  "total_cnt": 363,
+  "m_cnt": 363,
+  "f_cnt": 0
+ },
+ {
+  "cnacer_type": "고환(C62)",
+  "incident_year": "2021",
+  "total_cnt": 347,
+  "m_cnt": 347,
+  "f_cnt": 0
+ },
+ {
+  "cnacer_type": "신장(C64)",
+  "incident_year": "1999",
+  "total_cnt": 1418,
+  "m_cnt": 978,
+  "f_cnt": 440
+ },
+ {
+  "cnacer_type": "신장(C64)",
+  "incident_year": "2000",
+  "total_cnt": 1462,
+  "m_cnt": 994,
+  "f_cnt": 468
+ },
+ {
+  "cnacer_type": "신장(C64)",
+  "incident_year": "2001",
+  "total_cnt": 1676,
+  "m_cnt": 1140,
+  "f_cnt": 536
+ },
+ {
+  "cnacer_type": "신장(C64)",
+  "incident_year": "2002",
+  "total_cnt": 1780,
+  "m_cnt": 1207,
+  "f_cnt": 573
+ },
+ {
+  "cnacer_type": "신장(C64)",
+  "incident_year": "2003",
+  "total_cnt": 1908,
+  "m_cnt": 1298,
+  "f_cnt": 610
+ },
+ {
+  "cnacer_type": "신장(C64)",
+  "incident_year": "2004",
+  "total_cnt": 2099,
+  "m_cnt": 1421,
+  "f_cnt": 678
+ },
+ {
+  "cnacer_type": "신장(C64)",
+  "incident_year": "2005",
+  "total_cnt": 2387,
+  "m_cnt": 1624,
+  "f_cnt": 763
+ },
+ {
+  "cnacer_type": "신장(C64)",
+  "incident_year": "2006",
+  "total_cnt": 2667,
+  "m_cnt": 1820,
+  "f_cnt": 847
+ },
+ {
+  "cnacer_type": "신장(C64)",
+  "incident_year": "2007",
+  "total_cnt": 2969,
+  "m_cnt": 2047,
+  "f_cnt": 922
+ },
+ {
+  "cnacer_type": "신장(C64)",
+  "incident_year": "2008",
+  "total_cnt": 3268,
+  "m_cnt": 2252,
+  "f_cnt": 1016
+ },
+ {
+  "cnacer_type": "신장(C64)",
+  "incident_year": "2009",
+  "total_cnt": 3523,
+  "m_cnt": 2376,
+  "f_cnt": 1147
+ },
+ {
+  "cnacer_type": "신장(C64)",
+  "incident_year": "2010",
+  "total_cnt": 3691,
+  "m_cnt": 2586,
+  "f_cnt": 1105
+ },
+ {
+  "cnacer_type": "신장(C64)",
+  "incident_year": "2011",
+  "total_cnt": 4043,
+  "m_cnt": 2764,
+  "f_cnt": 1279
+ },
+ {
+  "cnacer_type": "신장(C64)",
+  "incident_year": "2012",
+  "total_cnt": 4226,
+  "m_cnt": 2927,
+  "f_cnt": 1299
+ },
+ {
+  "cnacer_type": "신장(C64)",
+  "incident_year": "2013",
+  "total_cnt": 4391,
+  "m_cnt": 3025,
+  "f_cnt": 1366
+ },
+ {
+  "cnacer_type": "신장(C64)",
+  "incident_year": "2014",
+  "total_cnt": 4563,
+  "m_cnt": 3168,
+  "f_cnt": 1395
+ },
+ {
+  "cnacer_type": "신장(C64)",
+  "incident_year": "2015",
+  "total_cnt": 4632,
+  "m_cnt": 3187,
+  "f_cnt": 1445
+ },
+ {
+  "cnacer_type": "신장(C64)",
+  "incident_year": "2016",
+  "total_cnt": 5131,
+  "m_cnt": 3467,
+  "f_cnt": 1664
+ },
+ {
+  "cnacer_type": "신장(C64)",
+  "incident_year": "2017",
+  "total_cnt": 5432,
+  "m_cnt": 3708,
+  "f_cnt": 1724
+ },
+ {
+  "cnacer_type": "신장(C64)",
+  "incident_year": "2018",
+  "total_cnt": 5524,
+  "m_cnt": 3855,
+  "f_cnt": 1669
+ },
+ {
+  "cnacer_type": "신장(C64)",
+  "incident_year": "2019",
+  "total_cnt": 6085,
+  "m_cnt": 4195,
+  "f_cnt": 1890
+ },
+ {
+  "cnacer_type": "신장(C64)",
+  "incident_year": "2020",
+  "total_cnt": 5993,
+  "m_cnt": 4166,
+  "f_cnt": 1827
+ },
+ {
+  "cnacer_type": "신장(C64)",
+  "incident_year": "2021",
+  "total_cnt": 6883,
+  "m_cnt": 4775,
+  "f_cnt": 2108
+ },
+ {
+  "cnacer_type": "방광(C67)",
+  "incident_year": "1999",
+  "total_cnt": 2195,
+  "m_cnt": 1744,
+  "f_cnt": 451
+ },
+ {
+  "cnacer_type": "방광(C67)",
+  "incident_year": "2000",
+  "total_cnt": 2261,
+  "m_cnt": 1805,
+  "f_cnt": 456
+ },
+ {
+  "cnacer_type": "방광(C67)",
+  "incident_year": "2001",
+  "total_cnt": 2511,
+  "m_cnt": 1982,
+  "f_cnt": 529
+ },
+ {
+  "cnacer_type": "방광(C67)",
+  "incident_year": "2002",
+  "total_cnt": 2505,
+  "m_cnt": 1968,
+  "f_cnt": 537
+ },
+ {
+  "cnacer_type": "방광(C67)",
+  "incident_year": "2003",
+  "total_cnt": 2772,
+  "m_cnt": 2199,
+  "f_cnt": 573
+ },
+ {
+  "cnacer_type": "방광(C67)",
+  "incident_year": "2004",
+  "total_cnt": 2916,
+  "m_cnt": 2332,
+  "f_cnt": 584
+ },
+ {
+  "cnacer_type": "방광(C67)",
+  "incident_year": "2005",
+  "total_cnt": 3056,
+  "m_cnt": 2450,
+  "f_cnt": 606
+ },
+ {
+  "cnacer_type": "방광(C67)",
+  "incident_year": "2006",
+  "total_cnt": 3092,
+  "m_cnt": 2504,
+  "f_cnt": 588
+ },
+ {
+  "cnacer_type": "방광(C67)",
+  "incident_year": "2007",
+  "total_cnt": 3249,
+  "m_cnt": 2579,
+  "f_cnt": 670
+ },
+ {
+  "cnacer_type": "방광(C67)",
+  "incident_year": "2008",
+  "total_cnt": 3343,
+  "m_cnt": 2675,
+  "f_cnt": 668
+ },
+ {
+  "cnacer_type": "방광(C67)",
+  "incident_year": "2009",
+  "total_cnt": 3336,
+  "m_cnt": 2656,
+  "f_cnt": 680
+ },
+ {
+  "cnacer_type": "방광(C67)",
+  "incident_year": "2010",
+  "total_cnt": 3553,
+  "m_cnt": 2863,
+  "f_cnt": 690
+ },
+ {
+  "cnacer_type": "방광(C67)",
+  "incident_year": "2011",
+  "total_cnt": 3692,
+  "m_cnt": 2973,
+  "f_cnt": 719
+ },
+ {
+  "cnacer_type": "방광(C67)",
+  "incident_year": "2012",
+  "total_cnt": 3644,
+  "m_cnt": 2933,
+  "f_cnt": 711
+ },
+ {
+  "cnacer_type": "방광(C67)",
+  "incident_year": "2013",
+  "total_cnt": 3891,
+  "m_cnt": 3128,
+  "f_cnt": 763
+ },
+ {
+  "cnacer_type": "방광(C67)",
+  "incident_year": "2014",
+  "total_cnt": 4091,
+  "m_cnt": 3302,
+  "f_cnt": 789
+ },
+ {
+  "cnacer_type": "방광(C67)",
+  "incident_year": "2015",
+  "total_cnt": 4151,
+  "m_cnt": 3336,
+  "f_cnt": 815
+ },
+ {
+  "cnacer_type": "방광(C67)",
+  "incident_year": "2016",
+  "total_cnt": 4473,
+  "m_cnt": 3582,
+  "f_cnt": 891
+ },
+ {
+  "cnacer_type": "방광(C67)",
+  "incident_year": "2017",
+  "total_cnt": 4501,
+  "m_cnt": 3623,
+  "f_cnt": 878
+ },
+ {
+  "cnacer_type": "방광(C67)",
+  "incident_year": "2018",
+  "total_cnt": 4700,
+  "m_cnt": 3752,
+  "f_cnt": 948
+ },
+ {
+  "cnacer_type": "방광(C67)",
+  "incident_year": "2019",
+  "total_cnt": 4974,
+  "m_cnt": 4054,
+  "f_cnt": 920
+ },
+ {
+  "cnacer_type": "방광(C67)",
+  "incident_year": "2020",
+  "total_cnt": 4813,
+  "m_cnt": 3872,
+  "f_cnt": 941
+ },
+ {
+  "cnacer_type": "방광(C67)",
+  "incident_year": "2021",
+  "total_cnt": 5169,
+  "m_cnt": 4201,
+  "f_cnt": 968
+ },
+ {
+  "cnacer_type": "뇌 및 중추신경total_cnt(C70-C72)",
+  "incident_year": "1999",
+  "total_cnt": 1360,
+  "m_cnt": 712,
+  "f_cnt": 648
+ },
+ {
+  "cnacer_type": "뇌 및 중추신경total_cnt(C70-C72)",
+  "incident_year": "2000",
+  "total_cnt": 1353,
+  "m_cnt": 715,
+  "f_cnt": 638
+ },
+ {
+  "cnacer_type": "뇌 및 중추신경total_cnt(C70-C72)",
+  "incident_year": "2001",
+  "total_cnt": 1379,
+  "m_cnt": 732,
+  "f_cnt": 647
+ },
+ {
+  "cnacer_type": "뇌 및 중추신경total_cnt(C70-C72)",
+  "incident_year": "2002",
+  "total_cnt": 1311,
+  "m_cnt": 687,
+  "f_cnt": 624
+ },
+ {
+  "cnacer_type": "뇌 및 중추신경total_cnt(C70-C72)",
+  "incident_year": "2003",
+  "total_cnt": 1486,
+  "m_cnt": 806,
+  "f_cnt": 680
+ },
+ {
+  "cnacer_type": "뇌 및 중추신경total_cnt(C70-C72)",
+  "incident_year": "2004",
+  "total_cnt": 1541,
+  "m_cnt": 811,
+  "f_cnt": 730
+ },
+ {
+  "cnacer_type": "뇌 및 중추신경total_cnt(C70-C72)",
+  "incident_year": "2005",
+  "total_cnt": 1616,
+  "m_cnt": 846,
+  "f_cnt": 770
+ },
+ {
+  "cnacer_type": "뇌 및 중추신경total_cnt(C70-C72)",
+  "incident_year": "2006",
+  "total_cnt": 1565,
+  "m_cnt": 812,
+  "f_cnt": 753
+ },
+ {
+  "cnacer_type": "뇌 및 중추신경total_cnt(C70-C72)",
+  "incident_year": "2007",
+  "total_cnt": 1683,
+  "m_cnt": 880,
+  "f_cnt": 803
+ },
+ {
+  "cnacer_type": "뇌 및 중추신경total_cnt(C70-C72)",
+  "incident_year": "2008",
+  "total_cnt": 1693,
+  "m_cnt": 903,
+  "f_cnt": 790
+ },
+ {
+  "cnacer_type": "뇌 및 중추신경total_cnt(C70-C72)",
+  "incident_year": "2009",
+  "total_cnt": 1725,
+  "m_cnt": 931,
+  "f_cnt": 794
+ },
+ {
+  "cnacer_type": "뇌 및 중추신경total_cnt(C70-C72)",
+  "incident_year": "2010",
+  "total_cnt": 1811,
+  "m_cnt": 971,
+  "f_cnt": 840
+ },
+ {
+  "cnacer_type": "뇌 및 중추신경total_cnt(C70-C72)",
+  "incident_year": "2011",
+  "total_cnt": 1688,
+  "m_cnt": 890,
+  "f_cnt": 798
+ },
+ {
+  "cnacer_type": "뇌 및 중추신경total_cnt(C70-C72)",
+  "incident_year": "2012",
+  "total_cnt": 1751,
+  "m_cnt": 955,
+  "f_cnt": 796
+ },
+ {
+  "cnacer_type": "뇌 및 중추신경total_cnt(C70-C72)",
+  "incident_year": "2013",
+  "total_cnt": 1878,
+  "m_cnt": 963,
+  "f_cnt": 915
+ },
+ {
+  "cnacer_type": "뇌 및 중추신경total_cnt(C70-C72)",
+  "incident_year": "2014",
+  "total_cnt": 1786,
+  "m_cnt": 947,
+  "f_cnt": 839
+ },
+ {
+  "cnacer_type": "뇌 및 중추신경total_cnt(C70-C72)",
+  "incident_year": "2015",
+  "total_cnt": 1826,
+  "m_cnt": 980,
+  "f_cnt": 846
+ },
+ {
+  "cnacer_type": "뇌 및 중추신경total_cnt(C70-C72)",
+  "incident_year": "2016",
+  "total_cnt": 2066,
+  "m_cnt": 1128,
+  "f_cnt": 938
+ },
+ {
+  "cnacer_type": "뇌 및 중추신경total_cnt(C70-C72)",
+  "incident_year": "2017",
+  "total_cnt": 1990,
+  "m_cnt": 1058,
+  "f_cnt": 932
+ },
+ {
+  "cnacer_type": "뇌 및 중추신경total_cnt(C70-C72)",
+  "incident_year": "2018",
+  "total_cnt": 2053,
+  "m_cnt": 1100,
+  "f_cnt": 953
+ },
+ {
+  "cnacer_type": "뇌 및 중추신경total_cnt(C70-C72)",
+  "incident_year": "2019",
+  "total_cnt": 2008,
+  "m_cnt": 1084,
+  "f_cnt": 924
+ },
+ {
+  "cnacer_type": "뇌 및 중추신경total_cnt(C70-C72)",
+  "incident_year": "2020",
+  "total_cnt": 2004,
+  "m_cnt": 1072,
+  "f_cnt": 932
+ },
+ {
+  "cnacer_type": "뇌 및 중추신경total_cnt(C70-C72)",
+  "incident_year": "2021",
+  "total_cnt": 2055,
+  "m_cnt": 1116,
+  "f_cnt": 939
+ },
+ {
+  "cnacer_type": "갑상선(C73)",
+  "incident_year": "1999",
+  "total_cnt": 3411,
+  "m_cnt": 518,
+  "f_cnt": 2893
+ },
+ {
+  "cnacer_type": "갑상선(C73)",
+  "incident_year": "2000",
+  "total_cnt": 3430,
+  "m_cnt": 503,
+  "f_cnt": 2927
+ },
+ {
+  "cnacer_type": "갑상선(C73)",
+  "incident_year": "2001",
+  "total_cnt": 4508,
+  "m_cnt": 630,
+  "f_cnt": 3878
+ },
+ {
+  "cnacer_type": "갑상선(C73)",
+  "incident_year": "2002",
+  "total_cnt": 5558,
+  "m_cnt": 728,
+  "f_cnt": 4830
+ },
+ {
+  "cnacer_type": "갑상선(C73)",
+  "incident_year": "2003",
+  "total_cnt": 7567,
+  "m_cnt": 1036,
+  "f_cnt": 6531
+ },
+ {
+  "cnacer_type": "갑상선(C73)",
+  "incident_year": "2004",
+  "total_cnt": 10456,
+  "m_cnt": 1422,
+  "f_cnt": 9034
+ },
+ {
+  "cnacer_type": "갑상선(C73)",
+  "incident_year": "2005",
+  "total_cnt": 12833,
+  "m_cnt": 1787,
+  "f_cnt": 11046
+ },
+ {
+  "cnacer_type": "갑상선(C73)",
+  "incident_year": "2006",
+  "total_cnt": 16200,
+  "m_cnt": 2345,
+  "f_cnt": 13855
+ },
+ {
+  "cnacer_type": "갑상선(C73)",
+  "incident_year": "2007",
+  "total_cnt": 21331,
+  "m_cnt": 3200,
+  "f_cnt": 18131
+ },
+ {
+  "cnacer_type": "갑상선(C73)",
+  "incident_year": "2008",
+  "total_cnt": 27373,
+  "m_cnt": 4349,
+  "f_cnt": 23024
+ },
+ {
+  "cnacer_type": "갑상선(C73)",
+  "incident_year": "2009",
+  "total_cnt": 32586,
+  "m_cnt": 5255,
+  "f_cnt": 27331
+ },
+ {
+  "cnacer_type": "갑상선(C73)",
+  "incident_year": "2010",
+  "total_cnt": 36873,
+  "m_cnt": 6368,
+  "f_cnt": 30505
+ },
+ {
+  "cnacer_type": "갑상선(C73)",
+  "incident_year": "2011",
+  "total_cnt": 41396,
+  "m_cnt": 7121,
+  "f_cnt": 34275
+ },
+ {
+  "cnacer_type": "갑상선(C73)",
+  "incident_year": "2012",
+  "total_cnt": 44798,
+  "m_cnt": 8199,
+  "f_cnt": 36599
+ },
+ {
+  "cnacer_type": "갑상선(C73)",
+  "incident_year": "2013",
+  "total_cnt": 43124,
+  "m_cnt": 8570,
+  "f_cnt": 34554
+ },
+ {
+  "cnacer_type": "갑상선(C73)",
+  "incident_year": "2014",
+  "total_cnt": 31349,
+  "m_cnt": 6297,
+  "f_cnt": 25052
+ },
+ {
+  "cnacer_type": "갑상선(C73)",
+  "incident_year": "2015",
+  "total_cnt": 25576,
+  "m_cnt": 5483,
+  "f_cnt": 20093
+ },
+ {
+  "cnacer_type": "갑상선(C73)",
+  "incident_year": "2016",
+  "total_cnt": 26679,
+  "m_cnt": 5679,
+  "f_cnt": 21000
+ },
+ {
+  "cnacer_type": "갑상선(C73)",
+  "incident_year": "2017",
+  "total_cnt": 26843,
+  "m_cnt": 6170,
+  "f_cnt": 20673
+ },
+ {
+  "cnacer_type": "갑상선(C73)",
+  "incident_year": "2018",
+  "total_cnt": 29070,
+  "m_cnt": 6829,
+  "f_cnt": 22241
+ },
+ {
+  "cnacer_type": "갑상선(C73)",
+  "incident_year": "2019",
+  "total_cnt": 31101,
+  "m_cnt": 7620,
+  "f_cnt": 23481
+ },
+ {
+  "cnacer_type": "갑상선(C73)",
+  "incident_year": "2020",
+  "total_cnt": 29636,
+  "m_cnt": 7567,
+  "f_cnt": 22069
+ },
+ {
+  "cnacer_type": "갑상선(C73)",
+  "incident_year": "2021",
+  "total_cnt": 35303,
+  "m_cnt": 8771,
+  "f_cnt": 26532
+ },
+ {
+  "cnacer_type": "호지킨 림프종(C81)",
+  "incident_year": "1999",
+  "total_cnt": 123,
+  "m_cnt": 86,
+  "f_cnt": 37
+ },
+ {
+  "cnacer_type": "호지킨 림프종(C81)",
+  "incident_year": "2000",
+  "total_cnt": 134,
+  "m_cnt": 90,
+  "f_cnt": 44
+ },
+ {
+  "cnacer_type": "호지킨 림프종(C81)",
+  "incident_year": "2001",
+  "total_cnt": 148,
+  "m_cnt": 100,
+  "f_cnt": 48
+ },
+ {
+  "cnacer_type": "호지킨 림프종(C81)",
+  "incident_year": "2002",
+  "total_cnt": 145,
+  "m_cnt": 83,
+  "f_cnt": 62
+ },
+ {
+  "cnacer_type": "호지킨 림프종(C81)",
+  "incident_year": "2003",
+  "total_cnt": 158,
+  "m_cnt": 112,
+  "f_cnt": 46
+ },
+ {
+  "cnacer_type": "호지킨 림프종(C81)",
+  "incident_year": "2004",
+  "total_cnt": 206,
+  "m_cnt": 147,
+  "f_cnt": 59
+ },
+ {
+  "cnacer_type": "호지킨 림프종(C81)",
+  "incident_year": "2005",
+  "total_cnt": 158,
+  "m_cnt": 105,
+  "f_cnt": 53
+ },
+ {
+  "cnacer_type": "호지킨 림프종(C81)",
+  "incident_year": "2006",
+  "total_cnt": 177,
+  "m_cnt": 109,
+  "f_cnt": 68
+ },
+ {
+  "cnacer_type": "호지킨 림프종(C81)",
+  "incident_year": "2007",
+  "total_cnt": 205,
+  "m_cnt": 131,
+  "f_cnt": 74
+ },
+ {
+  "cnacer_type": "호지킨 림프종(C81)",
+  "incident_year": "2008",
+  "total_cnt": 219,
+  "m_cnt": 131,
+  "f_cnt": 88
+ },
+ {
+  "cnacer_type": "호지킨 림프종(C81)",
+  "incident_year": "2009",
+  "total_cnt": 220,
+  "m_cnt": 146,
+  "f_cnt": 74
+ },
+ {
+  "cnacer_type": "호지킨 림프종(C81)",
+  "incident_year": "2010",
+  "total_cnt": 249,
+  "m_cnt": 172,
+  "f_cnt": 77
+ },
+ {
+  "cnacer_type": "호지킨 림프종(C81)",
+  "incident_year": "2011",
+  "total_cnt": 265,
+  "m_cnt": 167,
+  "f_cnt": 98
+ },
+ {
+  "cnacer_type": "호지킨 림프종(C81)",
+  "incident_year": "2012",
+  "total_cnt": 269,
+  "m_cnt": 179,
+  "f_cnt": 90
+ },
+ {
+  "cnacer_type": "호지킨 림프종(C81)",
+  "incident_year": "2013",
+  "total_cnt": 265,
+  "m_cnt": 172,
+  "f_cnt": 93
+ },
+ {
+  "cnacer_type": "호지킨 림프종(C81)",
+  "incident_year": "2014",
+  "total_cnt": 282,
+  "m_cnt": 171,
+  "f_cnt": 111
+ },
+ {
+  "cnacer_type": "호지킨 림프종(C81)",
+  "incident_year": "2015",
+  "total_cnt": 273,
+  "m_cnt": 174,
+  "f_cnt": 99
+ },
+ {
+  "cnacer_type": "호지킨 림프종(C81)",
+  "incident_year": "2016",
+  "total_cnt": 315,
+  "m_cnt": 205,
+  "f_cnt": 110
+ },
+ {
+  "cnacer_type": "호지킨 림프종(C81)",
+  "incident_year": "2017",
+  "total_cnt": 289,
+  "m_cnt": 172,
+  "f_cnt": 117
+ },
+ {
+  "cnacer_type": "호지킨 림프종(C81)",
+  "incident_year": "2018",
+  "total_cnt": 302,
+  "m_cnt": 183,
+  "f_cnt": 119
+ },
+ {
+  "cnacer_type": "호지킨 림프종(C81)",
+  "incident_year": "2019",
+  "total_cnt": 309,
+  "m_cnt": 181,
+  "f_cnt": 128
+ },
+ {
+  "cnacer_type": "호지킨 림프종(C81)",
+  "incident_year": "2020",
+  "total_cnt": 327,
+  "m_cnt": 217,
+  "f_cnt": 110
+ },
+ {
+  "cnacer_type": "호지킨 림프종(C81)",
+  "incident_year": "2021",
+  "total_cnt": 356,
+  "m_cnt": 244,
+  "f_cnt": 112
+ },
+ {
+  "cnacer_type": "비호지킨 림프종(C82-C86,C96)",
+  "incident_year": "1999",
+  "total_cnt": 2105,
+  "m_cnt": 1254,
+  "f_cnt": 851
+ },
+ {
+  "cnacer_type": "비호지킨 림프종(C82-C86,C96)",
+  "incident_year": "2000",
+  "total_cnt": 2038,
+  "m_cnt": 1223,
+  "f_cnt": 815
+ },
+ {
+  "cnacer_type": "비호지킨 림프종(C82-C86,C96)",
+  "incident_year": "2001",
+  "total_cnt": 2241,
+  "m_cnt": 1335,
+  "f_cnt": 906
+ },
+ {
+  "cnacer_type": "비호지킨 림프종(C82-C86,C96)",
+  "incident_year": "2002",
+  "total_cnt": 2237,
+  "m_cnt": 1320,
+  "f_cnt": 917
+ },
+ {
+  "cnacer_type": "비호지킨 림프종(C82-C86,C96)",
+  "incident_year": "2003",
+  "total_cnt": 2359,
+  "m_cnt": 1377,
+  "f_cnt": 982
+ },
+ {
+  "cnacer_type": "비호지킨 림프종(C82-C86,C96)",
+  "incident_year": "2004",
+  "total_cnt": 2567,
+  "m_cnt": 1511,
+  "f_cnt": 1056
+ },
+ {
+  "cnacer_type": "비호지킨 림프종(C82-C86,C96)",
+  "incident_year": "2005",
+  "total_cnt": 2596,
+  "m_cnt": 1505,
+  "f_cnt": 1091
+ },
+ {
+  "cnacer_type": "비호지킨 림프종(C82-C86,C96)",
+  "incident_year": "2006",
+  "total_cnt": 2773,
+  "m_cnt": 1650,
+  "f_cnt": 1123
+ },
+ {
+  "cnacer_type": "비호지킨 림프종(C82-C86,C96)",
+  "incident_year": "2007",
+  "total_cnt": 2936,
+  "m_cnt": 1742,
+  "f_cnt": 1194
+ },
+ {
+  "cnacer_type": "비호지킨 림프종(C82-C86,C96)",
+  "incident_year": "2008",
+  "total_cnt": 3006,
+  "m_cnt": 1748,
+  "f_cnt": 1258
+ },
+ {
+  "cnacer_type": "비호지킨 림프종(C82-C86,C96)",
+  "incident_year": "2009",
+  "total_cnt": 3240,
+  "m_cnt": 1878,
+  "f_cnt": 1362
+ },
+ {
+  "cnacer_type": "비호지킨 림프종(C82-C86,C96)",
+  "incident_year": "2010",
+  "total_cnt": 3386,
+  "m_cnt": 1955,
+  "f_cnt": 1431
+ },
+ {
+  "cnacer_type": "비호지킨 림프종(C82-C86,C96)",
+  "incident_year": "2011",
+  "total_cnt": 3666,
+  "m_cnt": 2114,
+  "f_cnt": 1552
+ },
+ {
+  "cnacer_type": "비호지킨 림프종(C82-C86,C96)",
+  "incident_year": "2012",
+  "total_cnt": 3787,
+  "m_cnt": 2199,
+  "f_cnt": 1588
+ },
+ {
+  "cnacer_type": "비호지킨 림프종(C82-C86,C96)",
+  "incident_year": "2013",
+  "total_cnt": 4009,
+  "m_cnt": 2314,
+  "f_cnt": 1695
+ },
+ {
+  "cnacer_type": "비호지킨 림프종(C82-C86,C96)",
+  "incident_year": "2014",
+  "total_cnt": 4114,
+  "m_cnt": 2400,
+  "f_cnt": 1714
+ },
+ {
+  "cnacer_type": "비호지킨 림프종(C82-C86,C96)",
+  "incident_year": "2015",
+  "total_cnt": 4457,
+  "m_cnt": 2567,
+  "f_cnt": 1890
+ },
+ {
+  "cnacer_type": "비호지킨 림프종(C82-C86,C96)",
+  "incident_year": "2016",
+  "total_cnt": 4831,
+  "m_cnt": 2808,
+  "f_cnt": 2023
+ },
+ {
+  "cnacer_type": "비호지킨 림프종(C82-C86,C96)",
+  "incident_year": "2017",
+  "total_cnt": 4822,
+  "m_cnt": 2739,
+  "f_cnt": 2083
+ },
+ {
+  "cnacer_type": "비호지킨 림프종(C82-C86,C96)",
+  "incident_year": "2018",
+  "total_cnt": 5257,
+  "m_cnt": 3020,
+  "f_cnt": 2237
+ },
+ {
+  "cnacer_type": "비호지킨 림프종(C82-C86,C96)",
+  "incident_year": "2019",
+  "total_cnt": 5418,
+  "m_cnt": 3132,
+  "f_cnt": 2286
+ },
+ {
+  "cnacer_type": "비호지킨 림프종(C82-C86,C96)",
+  "incident_year": "2020",
+  "total_cnt": 5670,
+  "m_cnt": 3274,
+  "f_cnt": 2396
+ },
+ {
+  "cnacer_type": "비호지킨 림프종(C82-C86,C96)",
+  "incident_year": "2021",
+  "total_cnt": 5726,
+  "m_cnt": 3292,
+  "f_cnt": 2434
+ },
+ {
+  "cnacer_type": "다발성 골수종(C90)",
+  "incident_year": "1999",
+  "total_cnt": 468,
+  "m_cnt": 256,
+  "f_cnt": 212
+ },
+ {
+  "cnacer_type": "다발성 골수종(C90)",
+  "incident_year": "2000",
+  "total_cnt": 492,
+  "m_cnt": 275,
+  "f_cnt": 217
+ },
+ {
+  "cnacer_type": "다발성 골수종(C90)",
+  "incident_year": "2001",
+  "total_cnt": 565,
+  "m_cnt": 313,
+  "f_cnt": 252
+ },
+ {
+  "cnacer_type": "다발성 골수종(C90)",
+  "incident_year": "2002",
+  "total_cnt": 569,
+  "m_cnt": 328,
+  "f_cnt": 241
+ },
+ {
+  "cnacer_type": "다발성 골수종(C90)",
+  "incident_year": "2003",
+  "total_cnt": 617,
+  "m_cnt": 332,
+  "f_cnt": 285
+ },
+ {
+  "cnacer_type": "다발성 골수종(C90)",
+  "incident_year": "2004",
+  "total_cnt": 679,
+  "m_cnt": 363,
+  "f_cnt": 316
+ },
+ {
+  "cnacer_type": "다발성 골수종(C90)",
+  "incident_year": "2005",
+  "total_cnt": 795,
+  "m_cnt": 407,
+  "f_cnt": 388
+ },
+ {
+  "cnacer_type": "다발성 골수종(C90)",
+  "incident_year": "2006",
+  "total_cnt": 771,
+  "m_cnt": 385,
+  "f_cnt": 386
+ },
+ {
+  "cnacer_type": "다발성 골수종(C90)",
+  "incident_year": "2007",
+  "total_cnt": 890,
+  "m_cnt": 460,
+  "f_cnt": 430
+ },
+ {
+  "cnacer_type": "다발성 골수종(C90)",
+  "incident_year": "2008",
+  "total_cnt": 918,
+  "m_cnt": 493,
+  "f_cnt": 425
+ },
+ {
+  "cnacer_type": "다발성 골수종(C90)",
+  "incident_year": "2009",
+  "total_cnt": 1039,
+  "m_cnt": 577,
+  "f_cnt": 462
+ },
+ {
+  "cnacer_type": "다발성 골수종(C90)",
+  "incident_year": "2010",
+  "total_cnt": 1081,
+  "m_cnt": 571,
+  "f_cnt": 510
+ },
+ {
+  "cnacer_type": "다발성 골수종(C90)",
+  "incident_year": "2011",
+  "total_cnt": 1080,
+  "m_cnt": 609,
+  "f_cnt": 471
+ },
+ {
+  "cnacer_type": "다발성 골수종(C90)",
+  "incident_year": "2012",
+  "total_cnt": 1295,
+  "m_cnt": 707,
+  "f_cnt": 588
+ },
+ {
+  "cnacer_type": "다발성 골수종(C90)",
+  "incident_year": "2013",
+  "total_cnt": 1355,
+  "m_cnt": 708,
+  "f_cnt": 647
+ },
+ {
+  "cnacer_type": "다발성 골수종(C90)",
+  "incident_year": "2014",
+  "total_cnt": 1428,
+  "m_cnt": 776,
+  "f_cnt": 652
+ },
+ {
+  "cnacer_type": "다발성 골수종(C90)",
+  "incident_year": "2015",
+  "total_cnt": 1483,
+  "m_cnt": 777,
+  "f_cnt": 706
+ },
+ {
+  "cnacer_type": "다발성 골수종(C90)",
+  "incident_year": "2016",
+  "total_cnt": 1561,
+  "m_cnt": 847,
+  "f_cnt": 714
+ },
+ {
+  "cnacer_type": "다발성 골수종(C90)",
+  "incident_year": "2017",
+  "total_cnt": 1650,
+  "m_cnt": 866,
+  "f_cnt": 784
+ },
+ {
+  "cnacer_type": "다발성 골수종(C90)",
+  "incident_year": "2018",
+  "total_cnt": 1734,
+  "m_cnt": 936,
+  "f_cnt": 798
+ },
+ {
+  "cnacer_type": "다발성 골수종(C90)",
+  "incident_year": "2019",
+  "total_cnt": 1847,
+  "m_cnt": 1004,
+  "f_cnt": 843
+ },
+ {
+  "cnacer_type": "다발성 골수종(C90)",
+  "incident_year": "2020",
+  "total_cnt": 1759,
+  "m_cnt": 970,
+  "f_cnt": 789
+ },
+ {
+  "cnacer_type": "다발성 골수종(C90)",
+  "incident_year": "2021",
+  "total_cnt": 2018,
+  "m_cnt": 1095,
+  "f_cnt": 923
+ },
+ {
+  "cnacer_type": "백혈병(C91-C95)",
+  "incident_year": "1999",
+  "total_cnt": 2125,
+  "m_cnt": 1188,
+  "f_cnt": 937
+ },
+ {
+  "cnacer_type": "백혈병(C91-C95)",
+  "incident_year": "2000",
+  "total_cnt": 2008,
+  "m_cnt": 1107,
+  "f_cnt": 901
+ },
+ {
+  "cnacer_type": "백혈병(C91-C95)",
+  "incident_year": "2001",
+  "total_cnt": 2208,
+  "m_cnt": 1211,
+  "f_cnt": 997
+ },
+ {
+  "cnacer_type": "백혈병(C91-C95)",
+  "incident_year": "2002",
+  "total_cnt": 2319,
+  "m_cnt": 1331,
+  "f_cnt": 988
+ },
+ {
+  "cnacer_type": "백혈병(C91-C95)",
+  "incident_year": "2003",
+  "total_cnt": 2281,
+  "m_cnt": 1249,
+  "f_cnt": 1032
+ },
+ {
+  "cnacer_type": "백혈병(C91-C95)",
+  "incident_year": "2004",
+  "total_cnt": 2372,
+  "m_cnt": 1321,
+  "f_cnt": 1051
+ },
+ {
+  "cnacer_type": "백혈병(C91-C95)",
+  "incident_year": "2005",
+  "total_cnt": 2345,
+  "m_cnt": 1330,
+  "f_cnt": 1015
+ },
+ {
+  "cnacer_type": "백혈병(C91-C95)",
+  "incident_year": "2006",
+  "total_cnt": 2446,
+  "m_cnt": 1345,
+  "f_cnt": 1101
+ },
+ {
+  "cnacer_type": "백혈병(C91-C95)",
+  "incident_year": "2007",
+  "total_cnt": 2476,
+  "m_cnt": 1388,
+  "f_cnt": 1088
+ },
+ {
+  "cnacer_type": "백혈병(C91-C95)",
+  "incident_year": "2008",
+  "total_cnt": 2601,
+  "m_cnt": 1453,
+  "f_cnt": 1148
+ },
+ {
+  "cnacer_type": "백혈병(C91-C95)",
+  "incident_year": "2009",
+  "total_cnt": 2714,
+  "m_cnt": 1503,
+  "f_cnt": 1211
+ },
+ {
+  "cnacer_type": "백혈병(C91-C95)",
+  "incident_year": "2010",
+  "total_cnt": 2761,
+  "m_cnt": 1572,
+  "f_cnt": 1189
+ },
+ {
+  "cnacer_type": "백혈병(C91-C95)",
+  "incident_year": "2011",
+  "total_cnt": 2902,
+  "m_cnt": 1622,
+  "f_cnt": 1280
+ },
+ {
+  "cnacer_type": "백혈병(C91-C95)",
+  "incident_year": "2012",
+  "total_cnt": 2872,
+  "m_cnt": 1623,
+  "f_cnt": 1249
+ },
+ {
+  "cnacer_type": "백혈병(C91-C95)",
+  "incident_year": "2013",
+  "total_cnt": 3080,
+  "m_cnt": 1761,
+  "f_cnt": 1319
+ },
+ {
+  "cnacer_type": "백혈병(C91-C95)",
+  "incident_year": "2014",
+  "total_cnt": 3117,
+  "m_cnt": 1790,
+  "f_cnt": 1327
+ },
+ {
+  "cnacer_type": "백혈병(C91-C95)",
+  "incident_year": "2015",
+  "total_cnt": 3288,
+  "m_cnt": 1860,
+  "f_cnt": 1428
+ },
+ {
+  "cnacer_type": "백혈병(C91-C95)",
+  "incident_year": "2016",
+  "total_cnt": 3447,
+  "m_cnt": 2006,
+  "f_cnt": 1441
+ },
+ {
+  "cnacer_type": "백혈병(C91-C95)",
+  "incident_year": "2017",
+  "total_cnt": 3403,
+  "m_cnt": 1937,
+  "f_cnt": 1466
+ },
+ {
+  "cnacer_type": "백혈병(C91-C95)",
+  "incident_year": "2018",
+  "total_cnt": 3538,
+  "m_cnt": 2068,
+  "f_cnt": 1470
+ },
+ {
+  "cnacer_type": "백혈병(C91-C95)",
+  "incident_year": "2019",
+  "total_cnt": 3766,
+  "m_cnt": 2128,
+  "f_cnt": 1638
+ },
+ {
+  "cnacer_type": "백혈병(C91-C95)",
+  "incident_year": "2020",
+  "total_cnt": 3627,
+  "m_cnt": 2036,
+  "f_cnt": 1591
+ },
+ {
+  "cnacer_type": "백혈병(C91-C95)",
+  "incident_year": "2021",
+  "total_cnt": 3983,
+  "m_cnt": 2297,
+  "f_cnt": 1686
+ },
+ {
+  "cnacer_type": "기타 암(Re. C00-C96)",
+  "incident_year": "1999",
+  "total_cnt": 7087,
+  "m_cnt": 3775,
+  "f_cnt": 3312
+ },
+ {
+  "cnacer_type": "기타 암(Re. C00-C96)",
+  "incident_year": "2000",
+  "total_cnt": 6995,
+  "m_cnt": 3631,
+  "f_cnt": 3364
+ },
+ {
+  "cnacer_type": "기타 암(Re. C00-C96)",
+  "incident_year": "2001",
+  "total_cnt": 7433,
+  "m_cnt": 3855,
+  "f_cnt": 3578
+ },
+ {
+  "cnacer_type": "기타 암(Re. C00-C96)",
+  "incident_year": "2002",
+  "total_cnt": 7618,
+  "m_cnt": 4005,
+  "f_cnt": 3613
+ },
+ {
+  "cnacer_type": "기타 암(Re. C00-C96)",
+  "incident_year": "2003",
+  "total_cnt": 8453,
+  "m_cnt": 4424,
+  "f_cnt": 4029
+ },
+ {
+  "cnacer_type": "기타 암(Re. C00-C96)",
+  "incident_year": "2004",
+  "total_cnt": 8844,
+  "m_cnt": 4599,
+  "f_cnt": 4245
+ },
+ {
+  "cnacer_type": "기타 암(Re. C00-C96)",
+  "incident_year": "2005",
+  "total_cnt": 9756,
+  "m_cnt": 5013,
+  "f_cnt": 4743
+ },
+ {
+  "cnacer_type": "기타 암(Re. C00-C96)",
+  "incident_year": "2006",
+  "total_cnt": 10121,
+  "m_cnt": 5139,
+  "f_cnt": 4982
+ },
+ {
+  "cnacer_type": "기타 암(Re. C00-C96)",
+  "incident_year": "2007",
+  "total_cnt": 11130,
+  "m_cnt": 5755,
+  "f_cnt": 5375
+ },
+ {
+  "cnacer_type": "기타 암(Re. C00-C96)",
+  "incident_year": "2008",
+  "total_cnt": 11572,
+  "m_cnt": 5838,
+  "f_cnt": 5734
+ },
+ {
+  "cnacer_type": "기타 암(Re. C00-C96)",
+  "incident_year": "2009",
+  "total_cnt": 12237,
+  "m_cnt": 6250,
+  "f_cnt": 5987
+ },
+ {
+  "cnacer_type": "기타 암(Re. C00-C96)",
+  "incident_year": "2010",
+  "total_cnt": 12933,
+  "m_cnt": 6421,
+  "f_cnt": 6512
+ },
+ {
+  "cnacer_type": "기타 암(Re. C00-C96)",
+  "incident_year": "2011",
+  "total_cnt": 14164,
+  "m_cnt": 7071,
+  "f_cnt": 7093
+ },
+ {
+  "cnacer_type": "기타 암(Re. C00-C96)",
+  "incident_year": "2012",
+  "total_cnt": 14484,
+  "m_cnt": 7204,
+  "f_cnt": 7280
+ },
+ {
+  "cnacer_type": "기타 암(Re. C00-C96)",
+  "incident_year": "2013",
+  "total_cnt": 15208,
+  "m_cnt": 7590,
+  "f_cnt": 7618
+ },
+ {
+  "cnacer_type": "기타 암(Re. C00-C96)",
+  "incident_year": "2014",
+  "total_cnt": 16110,
+  "m_cnt": 8051,
+  "f_cnt": 8059
+ },
+ {
+  "cnacer_type": "기타 암(Re. C00-C96)",
+  "incident_year": "2015",
+  "total_cnt": 16935,
+  "m_cnt": 8573,
+  "f_cnt": 8362
+ },
+ {
+  "cnacer_type": "기타 암(Re. C00-C96)",
+  "incident_year": "2016",
+  "total_cnt": 18660,
+  "m_cnt": 9364,
+  "f_cnt": 9296
+ },
+ {
+  "cnacer_type": "기타 암(Re. C00-C96)",
+  "incident_year": "2017",
+  "total_cnt": 19007,
+  "m_cnt": 9544,
+  "f_cnt": 9463
+ },
+ {
+  "cnacer_type": "기타 암(Re. C00-C96)",
+  "incident_year": "2018",
+  "total_cnt": 20515,
+  "m_cnt": 10370,
+  "f_cnt": 10145
+ },
+ {
+  "cnacer_type": "기타 암(Re. C00-C96)",
+  "incident_year": "2019",
+  "total_cnt": 21306,
+  "m_cnt": 10688,
+  "f_cnt": 10618
+ },
+ {
+  "cnacer_type": "기타 암(Re. C00-C96)",
+  "incident_year": "2020",
+  "total_cnt": 21085,
+  "m_cnt": 10592,
+  "f_cnt": 10493
+ },
+ {
+  "cnacer_type": "기타 암(Re. C00-C96)",
+  "incident_year": "2021",
+  "total_cnt": 24007,
+  "m_cnt": 12012,
+  "f_cnt": 11995
+ }
+]

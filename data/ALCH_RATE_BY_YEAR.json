@@ -1,0 +1,70 @@
+[
+ {
+  "incident_year": 2001,
+  "drinking_rate": 30.2
+ },
+ {
+  "incident_year": 2005,
+  "drinking_rate": 28.8
+ },
+ {
+  "incident_year": 2007,
+  "drinking_rate": 25.3
+ },
+ {
+  "incident_year": 2008,
+  "drinking_rate": 27.8
+ },
+ {
+  "incident_year": 2009,
+  "drinking_rate": 27.3
+ },
+ {
+  "incident_year": 2010,
+  "drinking_rate": 27.5
+ },
+ {
+  "incident_year": 2011,
+  "drinking_rate": 27.1
+ },
+ {
+  "incident_year": 2012,
+  "drinking_rate": 25.8
+ },
+ {
+  "incident_year": 2013,
+  "drinking_rate": 24.1
+ },
+ {
+  "incident_year": 2014,
+  "drinking_rate": 24.2
+ },
+ {
+  "incident_year": 2015,
+  "drinking_rate": 22.6
+ },
+ {
+  "incident_year": 2016,
+  "drinking_rate": 23.9
+ },
+ {
+  "incident_year": 2017,
+  "drinking_rate": 22.3
+ },
+ {
+  "incident_year": 2018,
+  "drinking_rate": 22.4
+ },
+ {
+  "incident_year": 2019,
+  "drinking_rate": 21.5
+ },
+ {
+  "incident_year": 2020,
+  "drinking_rate": 20.6
+ },
+ {
+  "incident_year": 2021,
+  "drinking_rate": 19.3
+ }
+]
