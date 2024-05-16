@@ -1,0 +1,66 @@
+[
+ {
+  "incident_year": 2005,
+  "smoking_rate": 36.2
+ },
+ {
+  "incident_year": 2007,
+  "smoking_rate": 37.1
+ },
+ {
+  "incident_year": 2008,
+  "smoking_rate": 39.5
+ },
+ {
+  "incident_year": 2009,
+  "smoking_rate": 40
+ },
+ {
+  "incident_year": 2010,
+  "smoking_rate": 39.9
+ },
+ {
+  "incident_year": 2011,
+  "smoking_rate": 39
+ },
+ {
+  "incident_year": 2012,
+  "smoking_rate": 38
+ },
+ {
+  "incident_year": 2013,
+  "smoking_rate": 37.4
+ },
+ {
+  "incident_year": 2014,
+  "smoking_rate": 37.5
+ },
+ {
+  "incident_year": 2015,
+  "smoking_rate": 38.7
+ },
+ {
+  "incident_year": 2016,
+  "smoking_rate": 39.3
+ },
+ {
+  "incident_year": 2017,
+  "smoking_rate": 39
+ },
+ {
+  "incident_year": 2018,
+  "smoking_rate": 38.9
+ },
+ {
+  "incident_year": 2019,
+  "smoking_rate": 38.7
+ },
+ {
+  "incident_year": 2020,
+  "smoking_rate": 38.4
+ },
+ {
+  "incident_year": 2021,
+  "smoking_rate": 35.6
+ }
+]
