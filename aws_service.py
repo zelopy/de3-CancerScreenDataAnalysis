@@ -50,39 +50,12 @@ def upload_datafile_to_s3(s3_client):
     s3_bucket_name = config.get('S3_BUCKET_NAME', '')
 
     try:
-        # TODO : 업로드 테스트 : 정상
-        # s3_client.upload_file("test.txt", s3_bucket_name, "test.txt")
         local_path = "data/"
         for file_name in os.listdir(local_path):
             print("Uploading: ", file_name)
             s3_client.upload_file(local_path + file_name, s3_bucket_name, file_name)
     except Exception as e:
         print(e)
-
-# def copy_s3_to_redshift(redshift_client):
-#     try:
-#         key_file = 'aws_info.json'
-#         with open(key_file) as f:
-#             config = json.load(f)
-#         access_key = config.get('ACCESS_KEY_ID', '')
-#         secret_key = config.get('SECRET_ACCESS_KEY', '')
-#     except FileNotFoundError:
-#         print('aws_info.json 파일이 존재하지 않습니다.')
-
-#     query = """
-#         COPY table_name
-#         FROM 's3파일위치'
-#         ACCESS_KEY_ID '{}'
-#         SECRET_ACCESS_KEY '{}'
-#         JSON 'auto'
-#     """.format(access_key, secret_key)
-
-#     response = redshift_client.execute_statement(
-#         ClusterIdentifier = '',
-#         Database='dev',
-#         Sql=query
-#     )
-#     print(response)
 
 
 '''
@@ -155,10 +128,11 @@ def copy_s3_to_redshift(engine):
     # TODO : TEST
     data_copy_query = f"""
     COPY raw_data.chAlchbyType
-    FROM 's3://de3-pjt2/copy_test.json'
+    FROM 's3://de3-pjt2/_TEST-Cholan04-chAlchbyType.csv'
     credentials 'aws_iam_role=arn:aws:iam::339712859001:role/redshift.read.s3'
-    FORMAT AS JSON 's3://de3-pjt2/json_paths/jsonpath_file_AlchbyType.json'
-    timeformat 'auto';
+    timeformat 'auto'
+    delimiter ','
+    IGNOREHEADER 1;
     """
     # SQL 실행
     with engine.connect() as connection:
