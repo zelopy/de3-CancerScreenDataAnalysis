@@ -199,7 +199,7 @@ IGNOREHEADER 1;
 -- ==============================================================================
 
 -- 연도별_암_종류_발생자_수.json
--- CANCER_BY_YEAR : 완료
+-- CANCER_BY_YEAR
 COPY analytics.CANCER_BY_YEAR
 FROM 's3://de3-pjt2/csv/CANCER_BY_YEAR.csv'
 credentials 'aws_iam_role=arn:aws:iam::339712859001:role/redshift.read.s3'
@@ -211,7 +211,7 @@ emptyasnull
 blanksasnull;
 
 -- 연도별_음주자_비율.json
--- ALCH_RATE_BY_YEAR : 완료
+-- ALCH_RATE_BY_YEAR
 COPY analytics.ALCH_RATE_BY_YEAR
 FROM 's3://de3-pjt2/csv/ALCH_RATE_BY_YEAR.csv'
 credentials 'aws_iam_role=arn:aws:iam::339712859001:role/redshift.read.s3'
@@ -223,7 +223,7 @@ emptyasnull
 blanksasnull;
 
 -- 연도별_흡연자_비율.json
--- SMOKING_RATE_BY_YEAR : 완료
+-- SMOKING_RATE_BY_YEAR
 COPY analytics.SMOKING_RATE_BY_YEAR
 FROM 's3://de3-pjt2/csv/SMOKING_RATE_BY_YEAR.csv'
 credentials 'aws_iam_role=arn:aws:iam::339712859001:role/redshift.read.s3'
@@ -235,7 +235,7 @@ emptyasnull
 blanksasnull;
 
 -- 연령대별_발생자_수.json
--- REGION_BY_AGE (in raw_data) : 완료
+-- REGION_BY_AGE (in raw_data)
 COPY raw_data.REGION_BY_AGE
 FROM 's3://de3-pjt2/csv/REGION_BY_AGE.csv'
 credentials 'aws_iam_role=arn:aws:iam::339712859001:role/redshift.read.s3'
@@ -244,7 +244,7 @@ delimiter ','
 IGNOREHEADER 1;
 
 -- 지역별_암_발생자_수.json
--- CANCER_BY_REGION : 완료
+-- CANCER_BY_REGION
 COPY analytics.CANCER_BY_REGION
 FROM 's3://de3-pjt2/csv/CANCER_BY_REGION.csv'
 credentials 'aws_iam_role=arn:aws:iam::339712859001:role/redshift.read.s3'
@@ -253,7 +253,7 @@ delimiter ','
 IGNOREHEADER 1;
 
 -- 가인님 S3에 직접 csv파일 추가
--- CANCER_BY_AGE : 완료
+-- CANCER_BY_AGE
 COPY analytics.CANCER_BY_AGE
 FROM 's3://de3-pjt2/csv/CANCER_BY_AGE.csv'
 credentials 'aws_iam_role=arn:aws:iam::339712859001:role/redshift.read.s3'
