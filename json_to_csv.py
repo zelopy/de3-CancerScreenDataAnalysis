@@ -47,7 +47,7 @@ def get_all_json_file():
 
 # MAIN
 if __name__ == '__main__':
-    '''
+    
     # 데이터 디렉터리 내의 모든 JSON 파일을 변환
     json_files = get_all_json_file()
 
@@ -55,8 +55,8 @@ if __name__ == '__main__':
         csv_file = json_file.replace('.json', '.csv')
         print(f'Converting {json_file} to {csv_file}...')
         type2_json_to_csv(json_file, csv_file)
+    
     '''
-
     # 5개 한글 json 파일 처리 : [파일명, 키(컬럼)이름]
     other_json_flies = [
         ["CANCER_BY_YEAR", ["cnacer_type", "incident_year", "total_cnt", "m_cnt", "f_cnt"]],
@@ -69,3 +69,4 @@ if __name__ == '__main__':
         json_file_name = 'data/' + json_file[0] + '.json'
         csv_file_name = 'data/' + json_file[0] + '.csv'
         other_json_to_csv(json_file_name, csv_file_name, json_file[1])
+    '''
