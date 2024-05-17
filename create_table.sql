@@ -339,31 +339,31 @@ CREATE TABLE raw_data.kiAlchbyType (
 -- ==============================================================================
 
 -- 연도별_암_종류_발생자_수.json
--- CANCER_BY_YEAR
+-- CANCER_BY_YEAR : 완료
 CREATE TABLE analytics.CANCER_BY_YEAR (
 	cnacer_type VARCHAR(255),
-	incident_year INT,
+	incident_year VARCHAR(255),
 	total_cnt INT,
 	m_cnt INT,
 	f_cnt INT
 );
 
 -- 연도별_음주자_비율.json
--- ALCH_RATE_BY_YEAR
+-- ALCH_RATE_BY_YEAR : 완료
 CREATE TABLE analytics.ALCH_RATE_BY_YEAR (
 	incident_year INT,
 	drinking_rate FLOAT
 );
 
 -- 연도별_흡연자_비율.json
--- SMOKING_RATE_BY_YEAR
+-- SMOKING_RATE_BY_YEAR : 완료
 CREATE TABLE analytics.SMOKING_RATE_BY_YEAR (
 	incident_year INT,
 	smoking_rate FLOAT
 );
 
 -- 연령대별_발생자_수.json
--- REGION_BY_AGE
+-- raw_data.REGION_BY_AGE : 완료, analytics.REGION_BY_AGE : 완료
 CREATE TABLE raw_data.REGION_BY_AGE (
 	region VARCHAR(255),
 	age_group VARCHAR(255),
@@ -381,10 +381,19 @@ CREATE TABLE analytics.REGION_BY_AGE (
 );
 
 -- 지역별_암_발생자_수.json
--- CANCER_BY_REGION
+-- CANCER_BY_REGION : 완료
 CREATE TABLE analytics.CANCER_BY_REGION (
 	region VARCHAR(255),
 	total_cnt INT,
 	m_cnt INT,
 	f_cnt INT
+);
+
+-- 가인님 S3에 직접 csv파일 추가
+-- CANCER_BY_AGE : 완료
+CREATE TABLE analytics.CANCER_BY_AGE (
+	cancer_type VARCHAR(255),
+	age_group VARCHAR(255),
+	total_count INT,
+	incident_year INT
 );
